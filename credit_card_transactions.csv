@@ -1,0 +1,1001 @@
+s,Transaction Date,Transaction Time,Transaction Type,Merchant Category,Geographic Location,Cardholder History,Transaction Amount,Currency,Transaction Status,Cardholder Account Information,Transaction Method
+40ea7306-831d-4b86-ad2f-d27532669824,31-07-2023,02:47:00,Online Payment,Online Services,Rodneystad,13,873.49,EUR,Declined,Platinum,Online
+971ebf73-f4ff-4103-9393-f7aecc7ba7c4,05-11-2022,00:04:13,ATM Withdrawal,Online Services,North Kevinhaven,15,876.86,USD,Approved,Gold,Physical Card
+f913deb5-7e38-42b7-8252-63a9702d0627,12-11-2022,01:09:28,Purchase,Retail,Carrillohaven,7,771.35,GBP,Pending,Platinum,Physical Card
+4a1ace95-4077-4713-84ed-133a1b9b4fd8,28-03-2023,20:48:50,Online Payment,Retail,New Nancymouth,12,673.75,USD,Approved,Platinum,Online
+86223e39-b6d5-4243-8f3e-555b02f90197,07-03-2023,13:31:17,ATM Withdrawal,Online Services,Fergusonborough,7,682.2,EUR,Declined,Gold,Physical Card
+0c5540be-4cea-477a-ae27-575f726c9bed,24-10-2022,19:13:14,Purchase,Retail,Jacksonborough,8,372.35,EUR,Pending,Gold,Online
+f9a9ab16-0ad0-428f-8ae1-47e043cc9b05,03-04-2023,17:22:36,ATM Withdrawal,Online Services,Andrewside,18,507.4,GBP,Approved,Gold,Online
+fb2ca73c-dd4b-44d7-94c3-08d50287dcad,24-01-2023,22:06:19,Purchase,Retail,Cooperland,3,385.61,EUR,Pending,Standard,Mobile Payment
+46edd2a5-e29f-46c3-9c7f-6f269fd8ee96,06-08-2023,23:09:40,Purchase,Retail,Changville,18,495.19,USD,Pending,Gold,Mobile Payment
+902eeec1-b7aa-4056-9d8a-b81c9183965a,28-04-2023,12:30:12,Online Payment,Online Services,South Melissashire,19,476.34,USD,Approved,Platinum,Online
+ae91ee4c-66ca-46c3-b5ff-f7a03eb873c5,12-01-2023,20:22:48,Purchase,Restaurant,New Holly,17,140.93,GBP,Declined,Standard,Physical Card
+79618185-d7d2-40e1-b0a7-a19d4ff9713b,16-03-2023,05:35:28,Online Payment,Restaurant,North Kevinhaven,3,210.12,USD,Declined,Gold,Mobile Payment
+85996e1f-cce2-44e9-b624-f7135aea0965,11-09-2023,05:08:18,Online Payment,Restaurant,Johnsonbury,10,148.49,USD,Pending,Standard,Online
+db3d1898-1fc8-4b9b-8fc6-f87e7eb47918,11-06-2023,01:14:06,Online Payment,Online Services,Richardport,14,57.68,GBP,Pending,Gold,Online
+d6d02fc8-e506-48d2-9651-b489ce76ccf7,17-01-2023,18:42:34,Online Payment,Retail,West Catherine,5,890.41,USD,Declined,Platinum,Physical Card
+ce5d26a5-33af-407f-be7f-8f2b46efc029,16-11-2022,15:28:53,Online Payment,Restaurant,South Kevin,7,742.65,EUR,Declined,Gold,Mobile Payment
+53b48280-dca6-4699-ad54-ef52804afb70,20-12-2022,04:52:06,Online Payment,Online Services,Spencerberg,5,879.1,USD,Pending,Gold,Online
+a963e947-80e9-4352-aa39-3b3ec66b4d64,09-02-2023,07:43:56,Online Payment,Retail,Maldonadohaven,3,491.47,GBP,Declined,Platinum,Online
+dfa90bf5-cb60-4a4a-8cbe-ed550b90c4ba,07-11-2022,12:06:26,ATM Withdrawal,Online Services,North Christopher,18,681,EUR,Approved,Platinum,Mobile Payment
+30b531bf-cac1-4433-b66c-5999a7469d81,12-03-2023,14:27:26,ATM Withdrawal,Online Services,Jonathonmouth,8,150.45,EUR,Declined,Standard,Physical Card
+40523857-2c0b-451b-b0f6-0407e536a4ae,01-02-2023,02:16:55,Purchase,Retail,North Danielleview,2,128.01,EUR,Pending,Standard,Physical Card
+0bd84071-383b-487e-94e8-002a0f8407a8,10-02-2023,08:43:54,Purchase,Restaurant,West Kevinfurt,7,857.45,GBP,Declined,Platinum,Physical Card
+9dcbf253-58bb-473c-917b-94e680fd2064,10-08-2023,12:49:27,Online Payment,Restaurant,Lake Zacharychester,16,203.62,EUR,Declined,Standard,Mobile Payment
+289d99d6-c63d-483c-a0ae-9f83131ece71,21-05-2023,08:01:11,Purchase,Retail,North Peter,8,771.75,GBP,Declined,Gold,Physical Card
+a45373fa-0e29-4d61-a2dc-2f4a1c22604d,24-08-2023,07:42:17,ATM Withdrawal,Online Services,Gamblestad,20,68.44,EUR,Declined,Standard,Mobile Payment
+d1e77c43-fb8c-4be6-99f3-ab3d4e5c527b,11-07-2023,21:40:00,Purchase,Restaurant,Conniechester,15,702.22,USD,Declined,Gold,Physical Card
+fcc3634c-d1d2-46ad-9f25-75766e3b6e9c,08-01-2023,04:54:07,Purchase,Retail,Lake Rickyview,5,269.39,USD,Declined,Standard,Online
+1e364dc9-0c17-4832-adc6-fdca4d8357b5,15-02-2023,16:33:17,Purchase,Online Services,North Catherine,15,924.45,GBP,Approved,Gold,Online
+d1c72da1-3e60-440b-a58a-854645a99e1e,21-05-2023,16:54:04,Online Payment,Retail,Lake Jennifer,17,322.87,USD,Declined,Platinum,Physical Card
+d7b062fd-6215-4999-872d-2005db05c3ea,09-04-2023,18:27:08,ATM Withdrawal,Online Services,Watkinsland,14,296.1,GBP,Approved,Standard,Online
+1cd90d0e-3741-4f79-b769-155735bb50aa,10-09-2023,06:42:50,Online Payment,Online Services,Port John,4,524.21,USD,Pending,Gold,Physical Card
+6f9895d5-25ea-414b-8855-466b8ee5e957,09-10-2022,13:15:41,Purchase,Online Services,Port Michaelside,10,683.44,USD,Approved,Gold,Online
+b7805e86-ebaf-4110-83b4-e06fdb8b79a1,29-12-2022,05:47:32,ATM Withdrawal,Online Services,New Joseph,11,420.07,USD,Declined,Gold,Mobile Payment
+2f5fdd1b-680c-4257-a3d9-3e61ad9adf4f,23-01-2023,11:44:10,Online Payment,Restaurant,West Clinton,12,451.47,GBP,Declined,Platinum,Online
+3372d838-7f87-4d9f-9f6a-8c12e3ba7116,11-05-2023,02:57:50,Purchase,Restaurant,Lake Mark,5,420.02,GBP,Pending,Standard,Online
+7bf8a6c1-7d73-478a-980d-dc430f10c055,10-12-2022,14:27:35,Online Payment,Restaurant,New Brianview,15,917.13,EUR,Approved,Standard,Online
+9ea5baf9-b4e2-4a70-b5a1-b9f257201e2d,18-04-2023,13:31:54,ATM Withdrawal,Restaurant,New Marcus,19,642.71,USD,Approved,Standard,Online
+d09d9512-e1e5-417e-a018-bee07b0427b7,10-02-2023,00:36:57,Online Payment,Restaurant,Port Dianeside,17,552.53,USD,Pending,Standard,Physical Card
+c5d33477-34b4-4ee5-a818-52db23098c51,19-02-2023,23:53:02,Purchase,Restaurant,Lake Brandy,3,980.34,USD,Pending,Standard,Physical Card
+403bb179-f7ec-4d07-b6e2-ac47b1720e65,04-09-2023,23:15:52,Online Payment,Restaurant,Geraldview,1,824.58,EUR,Approved,Standard,Online
+3634dcdc-135b-4f93-8a2e-d104a2a39b8d,07-05-2023,00:08:31,Online Payment,Restaurant,South Robertstad,5,947.58,USD,Declined,Gold,Mobile Payment
+42748d4f-0fa0-4d67-adbb-8b2c9adbcae6,23-06-2023,12:17:05,Online Payment,Restaurant,East Christopher,19,980.6,USD,Declined,Platinum,Physical Card
+991b3899-0d6d-43a0-8c15-d0ed3a1dba48,06-09-2023,03:04:58,Online Payment,Retail,Lake Angela,14,349.14,GBP,Pending,Standard,Physical Card
+188025bc-d243-4097-8623-c9b07d67134c,19-05-2023,03:42:36,Purchase,Online Services,Wandaton,9,232.41,GBP,Pending,Gold,Mobile Payment
+009b5912-2727-4eb6-913e-7c35d26491e5,17-11-2022,15:33:02,Online Payment,Online Services,West Josephmouth,6,593.09,GBP,Approved,Platinum,Mobile Payment
+b0c62c46-ae72-45e0-a651-1f706be3980a,10-12-2022,07:36:44,Online Payment,Online Services,Port Raymond,9,800.05,USD,Pending,Platinum,Mobile Payment
+3795d012-4a4a-44a6-9acf-6e8f01fcfc4c,17-11-2022,18:26:17,Online Payment,Retail,New Bridgethaven,14,30.54,EUR,Pending,Platinum,Mobile Payment
+89f2ec5d-9ba1-45f3-83a4-8977779e0a6e,22-02-2023,08:12:50,ATM Withdrawal,Online Services,Lake Kenneth,8,488.2,EUR,Approved,Gold,Online
+6499dcea-672a-4c45-bdb2-a0fb8939d989,17-04-2023,20:10:48,Online Payment,Online Services,New Robert,5,890.51,EUR,Declined,Standard,Mobile Payment
+bbffa775-e6d7-475b-b4b0-11191aeb4af2,15-07-2023,15:55:26,Purchase,Online Services,Nathanielborough,4,527.77,GBP,Pending,Gold,Online
+f81cbdd0-57f3-42e1-956b-803b5aa12067,28-02-2023,20:30:19,Online Payment,Restaurant,Ericland,10,577.04,EUR,Pending,Gold,Online
+1bd48a2b-bda0-452c-af6c-652e54915af7,14-08-2023,02:36:48,Online Payment,Restaurant,Cooperland,6,660.59,EUR,Pending,Standard,Physical Card
+68a9db76-33cc-4e12-99e1-614e48183208,14-10-2022,00:52:16,ATM Withdrawal,Restaurant,Bruceborough,2,693.6,GBP,Declined,Standard,Physical Card
+8137bcf9-1de3-4522-a376-17f85d7d93d1,02-04-2023,11:17:41,ATM Withdrawal,Restaurant,Port Evan,17,169.95,EUR,Declined,Standard,Physical Card
+97cac19c-cbc9-4ce2-909c-c3c7afa3b383,18-09-2023,07:01:54,Online Payment,Restaurant,West Russell,14,921.32,EUR,Declined,Gold,Online
+e3bd1bc8-34c9-4342-a08d-8a855a9a2849,09-12-2022,15:54:00,ATM Withdrawal,Online Services,Kingfort,19,918.59,EUR,Pending,Gold,Online
+286e4a5e-31bd-400c-916c-6a5f31312756,29-10-2022,15:06:05,Online Payment,Restaurant,Delgadoland,17,942.87,EUR,Pending,Gold,Physical Card
+df8997b6-85d8-42d8-8676-321138072f9a,30-10-2022,17:45:10,ATM Withdrawal,Retail,East Angelicachester,8,278.95,EUR,Approved,Gold,Physical Card
+ccb99e08-b348-4fb0-9100-64c6864ef976,10-03-2023,19:35:50,ATM Withdrawal,Online Services,West Brianfort,14,343.61,USD,Declined,Standard,Physical Card
+55a8b78f-6e87-4293-b01c-a39ac9559b53,25-03-2023,16:07:03,Purchase,Restaurant,Stevenborough,20,388.07,USD,Approved,Platinum,Mobile Payment
+3c5365eb-acf4-42dd-a244-0df629f173e8,19-02-2023,07:54:27,ATM Withdrawal,Online Services,Westbury,17,182.84,USD,Pending,Standard,Mobile Payment
+d564b341-324a-45ea-884f-bcec32401239,27-08-2023,01:15:19,Purchase,Restaurant,Lake Evelyn,17,20.83,EUR,Declined,Gold,Physical Card
+fc493167-9f6d-4c38-9e41-2b11b25437de,30-01-2023,18:32:52,ATM Withdrawal,Online Services,Lake David,11,156.26,GBP,Pending,Standard,Physical Card
+4ad54af1-c83e-4d30-b163-084115a1f37f,16-03-2023,15:09:43,Online Payment,Retail,New Michael,4,708.84,USD,Pending,Gold,Physical Card
+e855669e-996d-4deb-be57-9a4536b53c50,18-02-2023,07:18:41,ATM Withdrawal,Restaurant,Walshbury,15,514.42,USD,Approved,Platinum,Mobile Payment
+5c62087e-8507-4a6f-8d49-361c24377ee8,06-12-2022,01:15:40,Purchase,Online Services,Jasontown,12,820.21,USD,Pending,Standard,Physical Card
+1aeb21f8-ff2f-4e09-9533-48b295d6f1fc,08-09-2023,19:44:44,Purchase,Restaurant,Jameschester,5,591.95,USD,Approved,Platinum,Online
+aede3a00-2087-43f8-9c6f-4876bdf40abe,13-06-2023,11:45:43,ATM Withdrawal,Retail,Lake Brianstad,12,7.46,GBP,Approved,Gold,Mobile Payment
+9a74f55b-8879-448b-92b4-9e7856485d24,09-01-2023,15:09:39,Online Payment,Restaurant,New Kennethmouth,2,522.79,EUR,Approved,Standard,Physical Card
+272f5c71-401c-48a9-b48d-fffd2507609d,21-12-2022,23:01:03,ATM Withdrawal,Online Services,Port Marilynmouth,17,936.9,USD,Pending,Standard,Mobile Payment
+169270dc-bf02-4bf1-91fa-d180c0781ddf,18-03-2023,03:02:37,ATM Withdrawal,Retail,Ginaland,5,373.15,USD,Pending,Standard,Mobile Payment
+4797aac7-bf09-412e-b4a1-a32aea896bda,09-08-2023,02:50:44,ATM Withdrawal,Online Services,Traciland,16,59.96,USD,Pending,Platinum,Physical Card
+3d42388c-9254-40bf-adc1-f345dcd87a07,24-10-2022,06:48:59,Online Payment,Retail,Sarahside,6,193.14,GBP,Approved,Platinum,Mobile Payment
+5b40bb0a-908a-427d-820b-3edfc579c145,02-11-2022,12:58:32,Purchase,Online Services,Michaelchester,1,188.26,EUR,Declined,Platinum,Online
+5104090c-21f1-4315-a6f8-3cd2bbe79452,04-06-2023,13:55:14,Online Payment,Restaurant,East Nancy,16,139.6,USD,Approved,Gold,Online
+a700cef6-2359-48fc-9ecb-0faa31eecb9a,31-05-2023,07:56:56,Online Payment,Retail,North Robin,12,692.08,EUR,Declined,Gold,Online
+313caba6-63f8-43f8-8b1a-78fca8dae18f,06-02-2023,00:56:12,ATM Withdrawal,Retail,West Robert,12,873.88,GBP,Pending,Gold,Online
+ff8dff30-f13b-4708-8551-66a7196bab86,07-08-2023,15:19:36,ATM Withdrawal,Retail,Valentinefort,14,25.42,EUR,Pending,Gold,Mobile Payment
+606de754-8bfa-43d4-bc12-bf42c23b8d70,15-06-2023,19:33:56,Purchase,Retail,Michellehaven,5,881.02,USD,Pending,Gold,Mobile Payment
+dcfe4535-b2da-4761-aa98-bc9f991d9e22,15-12-2022,03:50:14,Purchase,Restaurant,Kellitown,12,316.72,USD,Declined,Platinum,Physical Card
+7623cde0-c763-44f1-a608-9793c24ebd5a,10-03-2023,18:08:22,Purchase,Online Services,Stephensburgh,12,674.66,EUR,Approved,Standard,Online
+88c7bd82-b8d4-496b-8976-2714b23214a7,06-10-2022,08:23:12,Purchase,Retail,Jonesmouth,5,659.95,GBP,Pending,Platinum,Physical Card
+a419baee-c7a4-4221-bd0a-cd461ac4efa5,07-02-2023,04:59:08,Online Payment,Online Services,Port Julieton,4,362.11,GBP,Approved,Standard,Online
+fcb113fe-c50f-43d9-bd65-1eda30d8216f,16-03-2023,22:13:12,ATM Withdrawal,Online Services,Alicialand,3,375.31,USD,Approved,Standard,Online
+6b872f72-f5c4-4be0-9426-9dfb27e8f589,02-04-2023,14:47:50,Online Payment,Restaurant,Lisashire,4,927.23,EUR,Pending,Platinum,Online
+68820318-110a-496b-8c52-77f79941a1ac,23-06-2023,23:40:59,Purchase,Retail,Port Wendyburgh,16,3.03,USD,Declined,Gold,Mobile Payment
+80ca247e-8a2b-4825-92a6-fd7c50e58b80,06-01-2023,02:28:40,Purchase,Retail,West Scottshire,18,661.85,EUR,Pending,Platinum,Physical Card
+7046b20b-ebce-4977-a490-1d017bb4906b,14-09-2023,14:44:15,ATM Withdrawal,Restaurant,Vaughanborough,8,7.5,GBP,Approved,Platinum,Physical Card
+ca6a5b79-6f23-43df-9d35-b3152f6c8515,29-04-2023,14:23:29,Online Payment,Online Services,Danielton,13,450.64,EUR,Declined,Standard,Mobile Payment
+2f06834b-c639-46af-be90-fe015dc3f5f1,12-07-2023,05:04:48,ATM Withdrawal,Retail,West Elizabethmouth,11,299,GBP,Declined,Platinum,Physical Card
+b6c2131b-5b75-48fc-b8fd-3f3bb87d933f,28-02-2023,18:38:15,Purchase,Online Services,Hubbardmouth,1,57.73,USD,Pending,Standard,Online
+054dd5e0-ea3d-4a11-b1f7-a80b9fcb0bc4,02-07-2023,20:04:51,ATM Withdrawal,Retail,East Michaelberg,13,112.3,USD,Declined,Standard,Online
+eb762115-31b5-46c4-a981-ff2a57356e9e,06-02-2023,11:55:55,Online Payment,Retail,Maryshire,15,209.07,EUR,Approved,Gold,Online
+9151f381-03dd-4c79-83c4-85dfde57ba7f,14-12-2022,11:26:43,Purchase,Retail,Amandaton,2,576.49,GBP,Pending,Standard,Mobile Payment
+998f2a22-0285-41bc-b088-036e890cbd7b,04-01-2023,15:40:03,ATM Withdrawal,Restaurant,Jennifermouth,2,211.65,GBP,Declined,Standard,Physical Card
+f592e3a0-6f9b-4e6a-b69f-c1495afe4340,05-10-2022,22:17:46,Online Payment,Online Services,West Ericaburgh,5,605.15,USD,Approved,Gold,Physical Card
+0f025e2b-f191-46bd-9612-03e4395595ea,29-03-2023,10:36:09,Online Payment,Restaurant,West Oscarfurt,6,379.99,EUR,Approved,Platinum,Mobile Payment
+79188ac7-b5e3-42a5-8550-e077ee25bff8,27-08-2023,00:32:00,ATM Withdrawal,Restaurant,Edwardland,4,317.85,EUR,Approved,Gold,Online
+11d885a2-f4c4-4a7d-9372-1098733bf0d7,22-04-2023,01:37:50,Online Payment,Retail,Johnville,17,106.86,EUR,Pending,Gold,Mobile Payment
+b6a7da15-8e21-4987-a15b-142697907930,15-06-2023,09:33:23,Online Payment,Online Services,North Gregoryland,15,785.07,GBP,Pending,Platinum,Online
+80b7694d-430e-4b58-a495-cbc7f003f090,09-07-2023,18:48:57,ATM Withdrawal,Online Services,Josephstad,6,698.69,USD,Pending,Platinum,Online
+24c1704d-7534-42c1-ab8c-109998d748d1,11-06-2023,05:46:07,Online Payment,Restaurant,Michaelmouth,1,524.44,EUR,Approved,Gold,Online
+24d62853-277a-4aaf-a76c-82926648918c,24-10-2022,23:38:18,ATM Withdrawal,Online Services,Adamborough,9,656.3,EUR,Pending,Platinum,Physical Card
+d3eca7d1-76f4-4544-bce9-15e1482af893,10-10-2022,08:11:55,Purchase,Restaurant,Nicolemouth,1,402.36,GBP,Approved,Standard,Online
+401c58fc-c621-480f-8a76-42f6cb2af4df,21-08-2023,14:24:31,ATM Withdrawal,Restaurant,Daughertyhaven,7,323.04,GBP,Pending,Standard,Online
+7bf123fe-9969-41f7-a3d3-4752da537402,13-02-2023,23:39:09,Purchase,Retail,Howardberg,12,387.43,USD,Approved,Standard,Online
+49358764-f837-4f53-9aa1-0cad1aa9e945,25-12-2022,16:52:27,Purchase,Retail,West Christopher,10,95.83,USD,Approved,Platinum,Mobile Payment
+476812dc-a0c2-4362-a86e-aada853c2418,30-03-2023,23:47:11,Purchase,Online Services,West Andreaton,20,190.35,GBP,Declined,Standard,Physical Card
+b299df68-347f-474e-8de6-54d3fc289e85,28-02-2023,00:23:26,Online Payment,Restaurant,West Dorisstad,15,752.87,GBP,Declined,Platinum,Physical Card
+e26b7b33-0b70-4e9d-ad1f-6fd73b2ca575,10-05-2023,11:10:57,Online Payment,Online Services,West Cassandrashire,20,272.95,GBP,Pending,Standard,Physical Card
+31d72638-1c63-46e4-96d1-140fb8e274ad,07-08-2023,15:16:09,Online Payment,Online Services,Patrickhaven,4,640.64,GBP,Pending,Standard,Online
+befdcce6-51a3-491a-b599-4a5e3aa49e03,03-09-2023,16:09:22,Online Payment,Retail,Lake Michelleport,6,505.97,EUR,Pending,Platinum,Mobile Payment
+b90bd392-f638-47d5-9c26-72771ef12ce7,15-11-2022,14:20:47,Online Payment,Retail,Adamsborough,9,504.41,USD,Approved,Platinum,Mobile Payment
+a66c813e-2ea2-4429-aeea-84bc42354ad8,26-10-2022,05:22:17,Online Payment,Restaurant,Wrightland,12,133.23,GBP,Pending,Gold,Physical Card
+86377740-f81b-4024-8f32-40d69db6dbb2,22-09-2023,17:36:59,Online Payment,Online Services,Davidmouth,3,381.03,EUR,Declined,Platinum,Mobile Payment
+03c136e6-1673-4b29-a96c-e12cace077e7,12-01-2023,21:13:53,ATM Withdrawal,Restaurant,East Jonathanland,17,530.07,USD,Declined,Platinum,Mobile Payment
+0c1abee4-b099-4f55-88ac-027f1201f702,13-01-2023,19:34:46,Online Payment,Restaurant,South Louisburgh,2,833.79,EUR,Declined,Platinum,Mobile Payment
+7a94830b-365b-4996-b41e-5ea2b2c09ce6,21-06-2023,17:11:04,Purchase,Online Services,Port Danielberg,13,797.6,EUR,Approved,Platinum,Physical Card
+9229d394-deb4-4309-8a9d-b3eb72620b3b,07-02-2023,08:25:13,ATM Withdrawal,Retail,Taylormouth,10,411.44,USD,Pending,Standard,Online
+13710d76-0221-4901-bf54-a13df5471cfd,06-08-2023,05:21:10,Online Payment,Online Services,Markbury,16,583.05,EUR,Declined,Platinum,Online
+46bbc2c0-2cc0-4416-b6c4-2f6a4f2b4c0d,31-07-2023,05:11:08,Online Payment,Online Services,Port Jenniferstad,12,204.91,EUR,Declined,Standard,Online
+8a2dce52-07e5-4347-bc5f-5ad8cf95cea6,23-05-2023,04:29:22,Online Payment,Restaurant,West Michelemouth,7,755.17,USD,Pending,Gold,Online
+14c4fa0b-a845-4993-ae4a-5743bbecb98d,23-06-2023,22:53:19,ATM Withdrawal,Retail,Blackburnton,14,59.39,EUR,Approved,Standard,Mobile Payment
+b018a378-9b77-40ea-9ea9-3ec403a7f247,28-10-2022,21:54:13,Online Payment,Online Services,New Sarahburgh,15,104.65,GBP,Approved,Standard,Online
+4ad49028-6598-4f38-bd65-e11422b674e4,26-11-2022,15:11:30,Purchase,Online Services,Weberburgh,4,764.75,USD,Pending,Standard,Physical Card
+e59065b8-b8c5-45a2-81d3-a809fb944cdf,30-10-2022,22:10:12,Purchase,Restaurant,Lake Davidview,4,748.46,EUR,Approved,Platinum,Online
+ad12e9e9-840f-4073-b307-c8ce6e099474,17-05-2023,21:34:46,Purchase,Restaurant,Hannahtown,10,246.95,GBP,Approved,Platinum,Physical Card
+8aa659da-8725-4161-b6b1-55ad1080b217,10-10-2022,06:05:37,ATM Withdrawal,Restaurant,West Alicia,6,35.06,GBP,Approved,Platinum,Physical Card
+b5a4f238-a5fd-44e6-8646-2fe6818b9094,14-02-2023,18:33:08,Purchase,Retail,New Anna,1,979.93,EUR,Declined,Standard,Online
+2bb35a90-0fc5-41e6-ab08-a0afbfbcbad7,20-05-2023,06:17:55,Online Payment,Retail,New Sandrahaven,1,825.24,GBP,Pending,Gold,Online
+484ac3f6-415b-4770-9a79-466cf934d827,11-06-2023,07:23:04,Online Payment,Restaurant,Mercerview,5,346.97,EUR,Pending,Standard,Online
+eeb051a5-1393-4549-b473-b01abdcad800,05-01-2023,01:49:55,ATM Withdrawal,Restaurant,South Traceymouth,18,698.65,USD,Approved,Standard,Online
+9c8c5255-d1f8-4adc-bcf8-39870cbe3c63,12-09-2023,12:27:05,ATM Withdrawal,Restaurant,New Mary,18,80.43,EUR,Approved,Gold,Physical Card
+8708d4d5-5fbd-46ed-8bc1-637cd23e116b,03-05-2023,15:49:46,Online Payment,Online Services,New Tyler,19,247.16,GBP,Approved,Platinum,Mobile Payment
+a06c48f9-b21c-4bd1-a681-17a699349ca7,16-10-2022,23:04:27,Online Payment,Online Services,East Carlosside,12,817.58,USD,Declined,Platinum,Physical Card
+971ca6db-6bd5-40e2-9bf2-856b2d01e090,14-10-2022,10:00:57,Purchase,Online Services,Gonzalezbury,14,743.82,EUR,Approved,Platinum,Physical Card
+f8c15dd0-b5c9-4ad0-9be7-7526990cba70,26-02-2023,14:24:34,Online Payment,Online Services,Lewisfort,13,967.05,USD,Declined,Standard,Mobile Payment
+9a402032-0719-4d1c-ae27-0695230a1eb4,20-06-2023,14:45:49,Online Payment,Restaurant,Brianmouth,4,735.65,GBP,Approved,Platinum,Mobile Payment
+446bb06c-813f-46db-baf1-2a8f9fa5ba56,26-04-2023,18:01:12,Purchase,Online Services,New Kellybury,20,390.71,EUR,Pending,Standard,Mobile Payment
+6ebdeee7-1ccb-4242-8911-96f8e11b17a7,02-12-2022,05:38:27,Purchase,Retail,Mitchellfort,9,874.24,USD,Approved,Platinum,Physical Card
+802378e2-2aa0-4766-9b1f-063ed43c0327,18-04-2023,14:01:03,Online Payment,Retail,South Michaelton,17,692.6,GBP,Approved,Platinum,Physical Card
+8ba91f23-a037-4a79-b83f-1bd9d817a018,27-05-2023,03:34:34,Purchase,Restaurant,Haydenview,8,220.97,USD,Declined,Standard,Online
+85474ad2-3cc1-4b34-b46c-b926b913ea47,02-11-2022,21:51:39,ATM Withdrawal,Online Services,Lyonston,17,630.1,GBP,Declined,Platinum,Mobile Payment
+96aa3286-fa37-4249-a64c-b4c984cc8a86,25-10-2022,07:49:32,Online Payment,Online Services,East Bettyhaven,11,24.87,GBP,Declined,Gold,Online
+c1b513ef-ce93-4034-9b31-f8f405e5949f,06-09-2023,07:37:48,Purchase,Retail,East Julie,18,792.88,GBP,Declined,Gold,Mobile Payment
+bdbfdc67-c140-409e-8955-429707d52de2,21-11-2022,08:33:36,ATM Withdrawal,Online Services,East Kellytown,9,310.62,USD,Approved,Gold,Mobile Payment
+5f682987-b8e8-4e20-b736-277ec75a2a7b,11-08-2023,06:10:49,Purchase,Restaurant,Andrebury,13,217.14,USD,Approved,Standard,Mobile Payment
+74854f47-0eb0-4acd-81c9-ce8f96ce3def,11-01-2023,07:09:47,Online Payment,Retail,Serranohaven,19,930.74,USD,Declined,Platinum,Physical Card
+f98ef105-de1b-44d0-b624-d71899cdf9b2,04-04-2023,18:52:42,ATM Withdrawal,Retail,Lewistown,4,781.12,GBP,Pending,Standard,Physical Card
+c6e1f416-8a39-4970-b35c-09d4e2d141d7,18-01-2023,06:20:34,Online Payment,Restaurant,Mooreville,17,668.43,GBP,Declined,Platinum,Online
+76fff514-a3c2-4bc2-b8e6-1196c4bc41fd,28-04-2023,07:27:58,ATM Withdrawal,Online Services,Blevinsview,9,109.82,GBP,Declined,Platinum,Physical Card
+5f9ad55b-08ed-4d4d-9bfc-ac93e364ebd5,05-08-2023,02:54:23,Purchase,Online Services,Michaelmouth,9,382.12,EUR,Pending,Gold,Mobile Payment
+ba37a1f2-8a8f-4676-8d2d-109f2054a551,15-09-2023,03:11:02,Purchase,Online Services,Port Deborahview,18,847.8,EUR,Approved,Platinum,Online
+03a80ea7-9201-4855-9f22-43b726d70c1a,09-02-2023,05:25:44,Online Payment,Restaurant,North Roger,16,974.12,EUR,Pending,Gold,Physical Card
+951b4289-947a-4cd8-97d4-a19a31ae8d6e,13-12-2022,10:14:47,Online Payment,Retail,Josephside,13,212.34,EUR,Pending,Standard,Physical Card
+b3decc67-cb67-474a-9d62-46faac4df2fb,29-03-2023,14:38:26,ATM Withdrawal,Online Services,West Laura,15,821.57,EUR,Declined,Platinum,Mobile Payment
+58036cc7-dd52-4820-bc5f-cedd7462c1d1,15-11-2022,00:37:28,ATM Withdrawal,Online Services,East Lisamouth,10,567.93,GBP,Approved,Standard,Online
+7ee29932-041a-4250-a17f-b5a60de105c3,19-04-2023,00:53:10,Purchase,Restaurant,Rodriguezberg,19,742.72,EUR,Declined,Platinum,Online
+afa6f12c-d218-4fd7-9c54-9ddaf933cea6,14-08-2023,06:52:49,Purchase,Retail,New Joan,7,288.2,USD,Declined,Platinum,Mobile Payment
+3179b22d-72d2-4f74-8550-888a453ba2fe,25-02-2023,15:28:18,ATM Withdrawal,Online Services,New Joymouth,17,59.15,GBP,Declined,Gold,Online
+1b1d27f9-eeed-4f7d-b4c1-4d771bfd0cb6,21-03-2023,17:30:55,Purchase,Restaurant,West Zacharymouth,8,396.97,GBP,Declined,Platinum,Mobile Payment
+0386f5c1-4d31-4d26-b770-d46da2ecf77b,15-06-2023,01:52:44,Online Payment,Restaurant,Carterburgh,12,6.11,USD,Declined,Standard,Mobile Payment
+9d0f3238-bb92-4b5c-baf3-869ea226610a,25-03-2023,06:01:05,ATM Withdrawal,Online Services,South Jeffmouth,19,917.74,EUR,Declined,Standard,Mobile Payment
+67a30fea-9183-4360-b150-7952e20d8396,09-12-2022,14:28:41,Purchase,Retail,Port Jill,19,394.13,USD,Approved,Standard,Mobile Payment
+b84ba724-01bf-4203-86da-d85cf48697fc,04-01-2023,21:20:39,Purchase,Online Services,North Stephen,2,202.14,USD,Approved,Standard,Physical Card
+62aa4291-7194-4e9b-b3df-293b5324e668,04-06-2023,06:20:16,ATM Withdrawal,Restaurant,South Kenneth,8,193.57,GBP,Pending,Gold,Online
+5334a16b-665d-4f44-98e6-f7c916686674,19-08-2023,08:41:14,Purchase,Online Services,Madisontown,4,493.51,USD,Pending,Standard,Physical Card
+1d7b115d-2ee2-4515-9bec-a98c4d61356a,05-08-2023,03:43:28,Purchase,Restaurant,Kennethfurt,19,961.54,GBP,Declined,Standard,Online
+d5c9fc4e-5ec3-40ea-8a86-e5c35079b31e,19-12-2022,10:09:35,Online Payment,Restaurant,East Tara,14,98.42,GBP,Pending,Gold,Online
+a781b359-15e4-47b2-a923-d4cab1726af5,11-07-2023,23:50:24,Online Payment,Retail,South Christopherhaven,9,533.79,USD,Declined,Platinum,Mobile Payment
+83e5416a-1e70-4190-a27b-141935e31acc,22-07-2023,16:02:28,Purchase,Online Services,Port Tina,7,232.6,GBP,Approved,Platinum,Mobile Payment
+abdc5b99-d5c6-4e82-89f6-a83973dd2e6c,29-05-2023,14:22:49,Online Payment,Retail,Dwaynefort,10,122.13,GBP,Pending,Standard,Physical Card
+99b5b3df-0313-4c35-96ac-392001b34a97,09-06-2023,05:47:52,Purchase,Restaurant,New Robertfurt,11,109.02,GBP,Declined,Gold,Physical Card
+01b19b4e-f00b-4b63-a0b2-c4390fa98f97,26-01-2023,19:07:45,Online Payment,Online Services,Port Melissafort,4,523.04,EUR,Pending,Gold,Online
+0c0fe959-2dad-4f6a-adfa-1b3c834919d0,18-09-2023,19:37:41,Purchase,Online Services,South Scott,17,796.75,GBP,Pending,Platinum,Physical Card
+344f1ef3-49ff-48d0-a57e-254495fcf321,14-01-2023,03:53:10,Online Payment,Online Services,Scottland,8,813.95,GBP,Pending,Platinum,Online
+b87d42ff-796a-49ec-908a-6fd9608ef2cb,07-02-2023,02:58:14,Online Payment,Restaurant,Ericville,9,891.02,USD,Declined,Gold,Mobile Payment
+1adbaea6-ee0e-468d-9aba-871d499d3c53,14-10-2022,18:51:09,ATM Withdrawal,Online Services,Lake Mark,16,856.19,EUR,Declined,Standard,Mobile Payment
+dd62ea6c-9f80-4fa2-a12c-832ffba25418,10-07-2023,13:14:03,Online Payment,Retail,New Stacyfort,19,683.51,EUR,Declined,Gold,Physical Card
+e8bf7ca3-071c-4e7c-849f-ddd05b26b4c5,20-05-2023,03:39:34,Online Payment,Retail,Walterhaven,2,98.96,EUR,Pending,Standard,Mobile Payment
+92b4a81d-d2ad-4c6c-94b4-c646d8cac071,19-07-2023,04:29:06,Online Payment,Online Services,Josephstad,8,35.17,USD,Pending,Gold,Online
+36d06c99-7f53-4860-9186-d460f6a962b2,20-08-2023,02:11:00,Purchase,Restaurant,Cruzfurt,17,940.73,GBP,Pending,Standard,Physical Card
+50245fcc-c71a-4f21-8ff9-f5f6991264dc,02-12-2022,04:30:43,Online Payment,Online Services,Harriston,9,903.32,USD,Approved,Standard,Mobile Payment
+58f2c787-ee27-44f3-ae07-27760a037e2b,19-04-2023,19:54:59,ATM Withdrawal,Retail,Ochoaborough,1,768.05,EUR,Pending,Gold,Mobile Payment
+9320786d-466e-4013-a17a-29a8cdd7a94e,11-08-2023,07:24:57,ATM Withdrawal,Retail,Andrewborough,14,873.61,USD,Approved,Platinum,Physical Card
+f95f8e6c-fa32-4357-ac47-30b8ff35b7c4,09-04-2023,17:14:05,Purchase,Online Services,Juliatown,12,451.46,EUR,Declined,Platinum,Physical Card
+21d9679c-0e5b-43b6-bad7-98d0a734487e,16-10-2022,06:58:18,Purchase,Online Services,Whitneyville,19,651.87,USD,Declined,Gold,Physical Card
+8ab9de75-a29a-4dc0-970b-62baf3469919,16-11-2022,06:00:00,ATM Withdrawal,Retail,Lake David,20,777.53,USD,Declined,Platinum,Mobile Payment
+056a11b3-7579-4242-bb68-f00a9121c718,25-11-2022,16:17:00,Purchase,Retail,Katherinebury,16,34.42,GBP,Declined,Platinum,Mobile Payment
+900246f0-b4c4-4466-8e1b-2be35825bb4a,22-12-2022,07:28:35,ATM Withdrawal,Online Services,Curtiston,19,72.65,GBP,Pending,Gold,Mobile Payment
+637878ce-28a8-4acf-9e0e-537efe5971a9,20-02-2023,15:35:00,Online Payment,Online Services,Hunterland,16,387.47,USD,Pending,Gold,Mobile Payment
+8ef4612c-9ec3-4a2c-8f4b-cc5e6a7e5f50,30-11-2022,08:37:45,Online Payment,Restaurant,Bryanshire,7,631.27,EUR,Pending,Standard,Online
+89d07cbb-c85c-447b-959c-789240f9d92d,11-12-2022,13:15:55,Purchase,Restaurant,Jonesville,6,59.46,GBP,Pending,Gold,Physical Card
+39684afd-6c88-4414-9076-6f48d22869d5,03-01-2023,23:32:49,Purchase,Online Services,Lake Adam,1,38.75,USD,Pending,Platinum,Physical Card
+93cbda39-04bb-42ee-ad8e-e08564427c94,14-07-2023,15:05:24,Purchase,Restaurant,New Brendaview,3,384.65,USD,Pending,Platinum,Mobile Payment
+094c3c35-80ce-43f4-a5e2-3a822a92e959,06-09-2023,04:20:37,Online Payment,Retail,Madisonberg,4,603.7,GBP,Approved,Platinum,Physical Card
+b253538a-0bad-4098-ab2b-a952a96d10d5,22-11-2022,03:40:10,ATM Withdrawal,Online Services,West Rachelside,12,693.49,EUR,Pending,Gold,Physical Card
+9ce18b41-d6eb-43c1-a5b0-75708da0532d,01-05-2023,19:28:54,Purchase,Retail,South Erica,15,116.54,USD,Pending,Standard,Mobile Payment
+aa1c6e43-dbe4-466a-867e-4254ec9bec65,04-06-2023,08:01:25,Online Payment,Retail,Jamesport,7,128.61,USD,Pending,Gold,Mobile Payment
+f62f9a77-e87e-49f7-9fa9-de91baeab54d,08-09-2023,05:37:19,Purchase,Online Services,Stephanieton,4,649.72,GBP,Approved,Platinum,Mobile Payment
+2f811aaf-44d2-440a-a642-c6f326adf591,24-07-2023,12:56:01,ATM Withdrawal,Restaurant,Zunigaland,19,489.31,GBP,Pending,Standard,Online
+bec65518-cced-4e44-ac91-8ffddf113834,24-02-2023,02:55:20,ATM Withdrawal,Retail,Jamesbury,3,805.78,GBP,Approved,Standard,Mobile Payment
+ea94aa02-b4fc-4824-b92d-854945e204b2,13-12-2022,16:08:29,ATM Withdrawal,Restaurant,North Patricia,15,987.76,USD,Declined,Platinum,Mobile Payment
+28cdfa81-153f-4298-942d-ecf316eeb54f,21-07-2023,12:49:33,Purchase,Restaurant,South Jessica,1,838.8,EUR,Declined,Gold,Physical Card
+038e0d47-0f30-4315-8191-0baa9b451ce6,06-09-2023,11:21:58,Online Payment,Restaurant,South Angela,7,224.88,USD,Pending,Gold,Online
+f537db2b-5a8b-409e-853d-fe86ce01ffbb,12-02-2023,17:07:28,ATM Withdrawal,Restaurant,Port Ruth,5,242.9,GBP,Approved,Standard,Physical Card
+f0d63895-025e-4572-b80e-83b8d4fd4ed7,11-02-2023,17:31:37,Online Payment,Retail,Port Brianfurt,5,547.41,EUR,Declined,Platinum,Mobile Payment
+95b463ab-4897-4c03-b878-9a8a892f4cef,20-09-2023,07:10:52,Online Payment,Restaurant,North Philip,9,434.33,EUR,Pending,Standard,Physical Card
+4a3a076e-8dcb-4716-96cf-ec2453e9d602,13-10-2022,00:30:26,Online Payment,Online Services,East Andrewfort,16,154.84,GBP,Declined,Standard,Physical Card
+d5f7ccb1-c762-45e2-9e34-f66845d7a09e,06-08-2023,13:56:14,ATM Withdrawal,Retail,Michelleport,2,297.41,GBP,Declined,Gold,Mobile Payment
+8f400759-78f6-4f5a-9d2a-c55bd2bf4723,25-12-2022,12:30:59,Purchase,Online Services,West Jeremy,11,65,EUR,Pending,Gold,Mobile Payment
+a5f49d03-8111-4dc5-992a-74bcb336feb5,03-01-2023,02:56:51,ATM Withdrawal,Online Services,South Ricardo,5,319.76,EUR,Approved,Gold,Online
+69a5ab71-2679-4779-8b08-f351f57dbc81,24-12-2022,18:08:34,ATM Withdrawal,Restaurant,East Jillianstad,12,768.25,USD,Declined,Standard,Mobile Payment
+356f3603-6ef7-4339-b213-a334a0d5276e,29-07-2023,12:28:15,Purchase,Restaurant,New Richardmouth,16,979.98,USD,Pending,Platinum,Mobile Payment
+7bb804a1-dfff-4dae-a3a9-e3ae05c6afda,05-08-2023,07:34:17,Online Payment,Online Services,East James,15,951.27,USD,Pending,Gold,Mobile Payment
+e12fb2cb-5eee-4d8a-89d1-1a11b112a1de,19-10-2022,12:53:15,ATM Withdrawal,Retail,East Marc,3,844.12,USD,Declined,Standard,Mobile Payment
+a99b87af-0a46-47d1-8083-239d6490aacb,12-02-2023,17:01:03,ATM Withdrawal,Restaurant,Trevorstad,15,359.51,EUR,Approved,Gold,Mobile Payment
+97ba3faf-750d-4cef-ba62-7055953c6b09,22-08-2023,08:37:56,ATM Withdrawal,Online Services,West Crystalport,2,186.19,GBP,Pending,Standard,Mobile Payment
+3a958d74-1175-49bb-82e2-38b1c716a2e7,20-11-2022,13:43:52,ATM Withdrawal,Restaurant,Jonesstad,9,528.57,EUR,Declined,Standard,Physical Card
+cd1c27a5-79b3-4ffc-ae5f-ffc273c14bed,08-11-2022,10:15:56,Online Payment,Online Services,Angelview,3,794.92,USD,Pending,Platinum,Mobile Payment
+06a2e0ef-422d-44c5-af00-947a708e8594,14-10-2022,10:06:34,Purchase,Online Services,Acevedofort,3,30.71,USD,Declined,Gold,Physical Card
+3619b12e-2935-4678-8474-f11a98e8671d,28-11-2022,23:53:28,ATM Withdrawal,Retail,Port Williamborough,20,699.14,USD,Declined,Standard,Mobile Payment
+a234dc51-ecf3-4cde-b271-f426956b91b6,07-07-2023,11:04:23,Purchase,Online Services,Andremouth,5,211.28,USD,Approved,Standard,Physical Card
+ca00460a-df18-4444-9efb-69261317301c,01-01-2023,05:24:34,Purchase,Restaurant,Phillipport,11,355.91,GBP,Approved,Platinum,Online
+972cb171-9a90-4a7e-8aa0-b3ce31806391,26-08-2023,00:11:32,ATM Withdrawal,Retail,Jacquelineville,4,502.02,USD,Pending,Gold,Physical Card
+c939365e-ecc0-4a15-b6be-4c08d7199036,10-06-2023,04:14:34,ATM Withdrawal,Online Services,East Virginiaview,4,372.99,EUR,Declined,Standard,Mobile Payment
+c801a213-9bd6-4757-ae7b-542161c223eb,26-01-2023,12:09:07,Online Payment,Retail,Jenniferview,19,339.15,EUR,Approved,Platinum,Online
+90831d0b-8cdb-4fde-97a1-a3030d80f84e,29-03-2023,09:55:49,Purchase,Retail,East Jessica,15,294.17,USD,Declined,Platinum,Online
+437b4d4d-9b72-4482-b536-ceee6fe33437,07-01-2023,10:49:09,Purchase,Restaurant,West Maryshire,15,613.77,GBP,Approved,Standard,Online
+3b35f768-6e13-4c73-928d-409c23bee82f,20-10-2022,06:46:08,Purchase,Retail,Roachmouth,3,35.4,USD,Approved,Gold,Mobile Payment
+4e189b7f-b5ab-4e76-8727-81deb968139f,27-04-2023,13:15:50,ATM Withdrawal,Online Services,North Ericside,15,781.1,GBP,Declined,Platinum,Online
+0d5e0b5a-daa1-4cf1-9882-d18cb60e681a,24-02-2023,02:03:18,ATM Withdrawal,Retail,Hebertchester,13,18.53,USD,Pending,Standard,Mobile Payment
+dfc81664-552f-4b67-adcf-56e672e15157,06-08-2023,15:30:43,Purchase,Restaurant,West Kristin,4,680.33,EUR,Pending,Gold,Mobile Payment
+7675c0b3-35ac-4a24-b35a-d6f1d64c7694,14-05-2023,12:46:36,ATM Withdrawal,Online Services,North Tammyton,4,302.59,GBP,Approved,Platinum,Physical Card
+913732f3-f8b5-4176-b310-85dbf8e899c9,10-10-2022,20:13:23,ATM Withdrawal,Online Services,North Mariaburgh,7,389.1,EUR,Pending,Standard,Mobile Payment
+6a563f2c-f3df-4ecc-acc4-b8bd65fb0fbf,27-08-2023,05:10:39,ATM Withdrawal,Retail,East Christophershire,16,343.78,GBP,Declined,Gold,Online
+d330afae-5abc-43b4-81b9-223ac13d0ac0,08-11-2022,07:40:15,Purchase,Online Services,Powellland,12,699.12,GBP,Pending,Standard,Mobile Payment
+aed9463c-0b37-497d-97ae-ae188f44a69d,18-05-2023,20:18:38,Online Payment,Online Services,Daleton,1,219.97,GBP,Pending,Gold,Online
+25252056-adcb-46fd-a305-b08b6565b4eb,22-01-2023,05:29:25,Online Payment,Retail,Albertton,4,608.32,USD,Pending,Standard,Online
+cdfe814b-ee89-4cf7-b5d5-7840c5ff2215,08-01-2023,19:59:11,ATM Withdrawal,Online Services,Tonyaside,18,805.12,GBP,Declined,Gold,Online
+e6206f51-843b-4e68-bce4-cd9027a75dda,04-06-2023,23:53:35,Purchase,Retail,Loganview,10,38.4,EUR,Pending,Standard,Online
+da953c6a-1fbd-43ae-ad38-9be61092ddce,02-02-2023,20:17:45,ATM Withdrawal,Restaurant,Glennton,3,87.46,USD,Pending,Platinum,Online
+b4784c64-8f1e-4ac8-8cde-f3f2a0661863,17-12-2022,21:57:53,Purchase,Restaurant,North Williamshire,18,961.85,GBP,Approved,Gold,Online
+5a31ecba-3efe-4023-9274-952a4d465e65,11-10-2022,13:50:30,Online Payment,Retail,Watkinsfurt,19,869.85,EUR,Declined,Platinum,Mobile Payment
+2622f9db-1b74-420f-b38a-54617eb715f8,26-01-2023,22:07:47,ATM Withdrawal,Restaurant,South Robin,14,501.29,USD,Approved,Gold,Physical Card
+b1efecfa-593f-4402-9a53-a3d695e72211,07-02-2023,00:54:27,Online Payment,Online Services,North Kerri,11,746.18,USD,Declined,Platinum,Online
+787919a8-c361-44f0-90a7-954e0d5c9171,31-01-2023,02:33:40,ATM Withdrawal,Restaurant,Port Davidborough,5,633.71,EUR,Declined,Standard,Mobile Payment
+6ab93bab-07e9-46ca-896d-0221b2bb4155,12-06-2023,01:13:13,ATM Withdrawal,Restaurant,East Aaronstad,11,415.7,EUR,Declined,Platinum,Online
+eea43121-e08d-4d6d-9cec-4e57cb79ca16,19-04-2023,15:22:51,Purchase,Online Services,South Jamesland,7,201.39,EUR,Declined,Standard,Online
+f5495e8b-f029-4961-be27-69b250c1037f,08-12-2022,16:13:46,Online Payment,Online Services,Kimstad,18,747.42,EUR,Approved,Standard,Online
+7d7a7049-820e-4deb-9493-796ac931ebb9,08-01-2023,09:40:13,ATM Withdrawal,Online Services,Morrisshire,17,122.09,USD,Declined,Gold,Mobile Payment
+e1e4139d-6fa0-4271-a1dc-1c7791f7de07,28-06-2023,13:36:54,ATM Withdrawal,Retail,Hamptonfurt,8,553.89,USD,Declined,Platinum,Mobile Payment
+4763b668-8ef3-4891-b6da-5362426b0ec1,31-07-2023,01:58:01,Online Payment,Restaurant,Copelandville,13,566.75,GBP,Approved,Standard,Online
+75ef512f-6881-47d2-a33d-d4bbd11f3ddb,19-06-2023,12:26:15,Online Payment,Online Services,East Robert,18,708.51,EUR,Approved,Platinum,Online
+42c3ffdc-9e42-4ced-b6bd-378b4c14d8b6,03-02-2023,21:15:19,Online Payment,Online Services,West Sandra,9,392.34,EUR,Approved,Gold,Mobile Payment
+d95c8d2a-c9f9-4bfa-966b-44fe823ed8cd,01-12-2022,15:20:53,ATM Withdrawal,Online Services,New Christopher,10,437.52,USD,Pending,Standard,Online
+90a1d23f-52c3-4e53-9bd6-bae9d779b6f6,21-06-2023,10:30:33,Purchase,Retail,Bishopside,8,596.74,EUR,Approved,Platinum,Online
+6ded8191-513a-4605-a111-b257ffe78b7b,10-08-2023,16:47:26,Online Payment,Retail,Richardstad,16,289.17,EUR,Approved,Gold,Online
+b6b70f99-0e13-410c-9689-5290994857f6,19-03-2023,16:46:13,ATM Withdrawal,Retail,New Williamview,4,560.01,USD,Pending,Gold,Mobile Payment
+52660430-384b-4b43-8ac5-c87a80ffcafe,16-02-2023,19:56:44,Online Payment,Online Services,North Carolynburgh,1,15.47,USD,Approved,Gold,Physical Card
+6ce44528-94a2-4aba-bf37-70ccc8301ac2,05-11-2022,06:38:19,ATM Withdrawal,Restaurant,West Jesus,6,980.96,GBP,Declined,Platinum,Physical Card
+62f770ac-9c1b-4031-a40b-98a3a444afdd,17-06-2023,06:44:14,Purchase,Restaurant,Gordonport,2,370.24,USD,Declined,Platinum,Mobile Payment
+5df561a0-9b33-4f5a-9dee-c93344d99d8e,11-01-2023,09:38:17,Purchase,Online Services,New Jamesshire,3,259.81,GBP,Approved,Standard,Online
+eeb87776-67e4-40ca-819c-2ff220be11fb,07-01-2023,19:18:18,Purchase,Restaurant,Patriciamouth,18,318.47,GBP,Approved,Standard,Online
+a4ddd46c-8869-4d02-8498-97ca984a241b,23-07-2023,20:24:38,ATM Withdrawal,Restaurant,Englishville,5,788.89,EUR,Pending,Standard,Online
+c9f8742d-550f-4c43-aee8-8cc0e565012a,04-06-2023,17:31:52,ATM Withdrawal,Online Services,Carlosborough,1,196.06,EUR,Approved,Gold,Mobile Payment
+a23c17c2-5e55-48f6-b6bf-857ae663beb6,05-04-2023,18:21:34,Purchase,Restaurant,Tracyton,12,926.32,EUR,Pending,Gold,Online
+b553e0e8-03b1-488a-a965-86247bec8f0a,07-08-2023,07:28:15,ATM Withdrawal,Retail,Escobarside,7,167.98,GBP,Approved,Standard,Physical Card
+f76f105f-eca7-47d7-80cd-77603b87cbd8,15-05-2023,20:20:58,Online Payment,Restaurant,Lake Robertmouth,18,180.16,USD,Approved,Platinum,Mobile Payment
+b895eda1-8796-47af-a6d3-f33aa306d286,26-12-2022,02:16:43,Online Payment,Retail,Scottberg,12,605.36,USD,Approved,Standard,Mobile Payment
+2fc3ec8c-b086-43c0-a1b5-ec4b6834a383,24-05-2023,15:26:27,ATM Withdrawal,Retail,Marquezport,13,957.58,EUR,Approved,Platinum,Online
+3276ac36-d39d-47e5-9c36-2a0163fd8f52,05-11-2022,15:25:59,ATM Withdrawal,Restaurant,Port Aliciashire,19,97.63,EUR,Pending,Platinum,Physical Card
+77c0e76a-6394-42dc-89b4-91adbf489d73,28-11-2022,02:00:34,Online Payment,Restaurant,Teresaland,15,61.62,EUR,Pending,Gold,Mobile Payment
+b7c523c5-48e8-4a93-b744-20bc1627eda4,24-07-2023,00:53:13,Online Payment,Online Services,South Patricia,17,347.72,GBP,Declined,Platinum,Online
+c82ea408-cee5-4902-861b-879ec42ea95b,05-04-2023,01:37:41,ATM Withdrawal,Restaurant,Reynoldsborough,18,781.43,EUR,Approved,Gold,Mobile Payment
+80fb7c61-e62e-40eb-b113-81dfad22d738,04-09-2023,20:11:21,Online Payment,Retail,New Collintown,2,50.76,GBP,Pending,Platinum,Mobile Payment
+2a7ce65c-31d6-4a95-a5b4-b21b1d69f971,06-02-2023,09:02:30,Purchase,Retail,Jasonborough,13,583.05,GBP,Declined,Gold,Physical Card
+6447c99a-52b4-4704-943e-5ddac3311202,30-03-2023,08:10:04,ATM Withdrawal,Retail,Shannonmouth,4,81.89,GBP,Pending,Platinum,Physical Card
+c4a0c382-90eb-4d1f-b989-590d4928ba5c,15-02-2023,00:09:17,ATM Withdrawal,Online Services,West Scottmouth,1,378.78,USD,Pending,Gold,Online
+14360985-24fa-41de-86ca-dc09fd475c94,03-10-2022,03:36:52,ATM Withdrawal,Online Services,Johnsontown,1,294.13,EUR,Declined,Gold,Physical Card
+0ccccc97-8ebc-4a12-b663-2985777574b8,25-05-2023,18:54:30,ATM Withdrawal,Restaurant,Russellside,2,730.46,EUR,Declined,Standard,Physical Card
+fa2ed307-6e7c-4a25-8241-98df60415d64,06-05-2023,21:41:07,ATM Withdrawal,Online Services,Perryville,2,244.33,GBP,Approved,Platinum,Mobile Payment
+555e8798-f59a-459e-b170-15fe6e803d87,06-08-2023,22:51:30,Purchase,Online Services,Lake Angela,19,869.05,GBP,Declined,Platinum,Physical Card
+bc7263ca-59fb-4e10-8159-28a9d799db5a,09-04-2023,17:22:35,ATM Withdrawal,Restaurant,Port Pamelaburgh,20,243.8,USD,Declined,Gold,Online
+4f1945c0-6df3-4ea6-8355-12b91c0bf5c0,16-06-2023,04:09:42,ATM Withdrawal,Restaurant,Nelsonside,20,909.34,EUR,Pending,Platinum,Physical Card
+48d4e93b-58e5-4198-b3a3-44a3d1f9f7b3,07-09-2023,07:22:34,Online Payment,Online Services,South Yolandaton,6,143.86,EUR,Approved,Platinum,Mobile Payment
+11a87c46-15c7-43e4-801b-41721e06dc43,24-11-2022,04:09:39,ATM Withdrawal,Retail,South Staceyport,12,942.42,USD,Approved,Gold,Physical Card
+dbec1f71-1d01-4662-93fb-d2feab60003c,06-01-2023,09:01:34,Purchase,Retail,Salinasborough,17,398.9,EUR,Approved,Platinum,Physical Card
+d210c951-5b1e-4bde-878d-89069b58a30b,27-05-2023,00:25:28,ATM Withdrawal,Online Services,Lake Judithstad,16,92.6,USD,Pending,Platinum,Physical Card
+a78c36ff-0e67-4129-8d70-d46a1c536b57,25-04-2023,05:52:55,Online Payment,Retail,Melissamouth,13,710.77,EUR,Declined,Standard,Online
+31aeea87-6efb-4f30-854e-e302154ea361,27-02-2023,06:47:27,ATM Withdrawal,Restaurant,Port Leestad,11,917.12,EUR,Declined,Platinum,Online
+af21ad95-79d4-42a9-8e39-ec492ef99a10,13-10-2022,00:59:57,Online Payment,Online Services,Lake Joseph,13,300.55,GBP,Declined,Standard,Physical Card
+d8cf22db-af6b-41e8-ad21-040421c1d96d,04-06-2023,01:52:13,ATM Withdrawal,Retail,Lake Edwardbury,13,865.31,GBP,Approved,Standard,Online
+ee159f84-71fb-4af8-9a64-727a79bcdb20,01-10-2022,22:02:40,ATM Withdrawal,Restaurant,Port Michael,8,769.46,GBP,Declined,Platinum,Mobile Payment
+f4c0dcad-2438-49ea-81f6-b6cc9c89ce95,24-03-2023,07:37:00,Purchase,Restaurant,Riveramouth,6,144.94,USD,Approved,Gold,Online
+0811eb01-f465-43cf-81c9-ad7f3e852343,17-02-2023,14:43:54,Online Payment,Restaurant,Newmanchester,20,917.75,GBP,Approved,Gold,Online
+5ce133ee-e587-46c2-964d-31208995249d,30-08-2023,21:06:15,Purchase,Online Services,Hernandezmouth,8,834.45,EUR,Pending,Standard,Mobile Payment
+b1a588ce-aa21-40f9-916d-69ba4ba5d6d9,24-06-2023,02:05:44,ATM Withdrawal,Retail,New Joshuafort,8,558.46,EUR,Pending,Platinum,Physical Card
+a23da462-7f28-4b63-adf1-245977d2c92f,27-10-2022,20:40:30,Online Payment,Online Services,South Paula,6,144.81,USD,Pending,Gold,Online
+234f3339-5a75-4b66-bf91-331f65eadc88,15-11-2022,11:35:03,ATM Withdrawal,Retail,North Nicholasport,16,179.25,GBP,Declined,Standard,Physical Card
+abc6fd15-a664-47e1-a465-1aa019dc8443,03-07-2023,09:03:06,Purchase,Online Services,North Jillside,20,208.53,USD,Declined,Gold,Mobile Payment
+52f26a78-851d-44ad-baee-04cf73855f56,14-04-2023,14:13:47,Purchase,Retail,New Kevinton,10,578.52,GBP,Pending,Gold,Physical Card
+4100e10b-eeb4-4ef6-89de-ec73f472f24b,01-04-2023,06:11:51,Purchase,Online Services,North Micheal,20,537.71,GBP,Approved,Standard,Online
+c4a2aa1d-d000-4f8d-8947-d91ce98415aa,11-05-2023,06:55:25,Online Payment,Restaurant,East Kristaborough,14,994.81,GBP,Pending,Standard,Online
+46b46d37-f878-4332-972c-63b150d610c3,02-08-2023,12:31:51,Purchase,Retail,North Alisonborough,6,346.06,EUR,Pending,Standard,Mobile Payment
+461bb987-c8e4-41f3-aadb-8ac39e8db4d0,17-06-2023,11:46:06,ATM Withdrawal,Online Services,Samuelfurt,2,868.5,GBP,Pending,Gold,Physical Card
+c9633277-5ba2-46d9-87b3-baffc1a0250a,04-09-2023,05:07:26,Purchase,Retail,Port Kim,4,298,EUR,Pending,Gold,Mobile Payment
+6df8919b-43c6-4ea7-ac41-694e3f33032c,30-09-2022,09:21:09,Online Payment,Restaurant,South Mark,9,408.01,EUR,Pending,Platinum,Online
+294da72c-4022-4f13-ad44-76068fd727cc,07-07-2023,09:34:07,ATM Withdrawal,Retail,North Donaldtown,3,171.97,GBP,Approved,Standard,Online
+285222da-342b-4518-a265-0adad57dc938,25-10-2022,01:23:41,Purchase,Online Services,Jacquelinemouth,17,121.8,EUR,Pending,Gold,Online
+645cb627-5cd1-4af2-bf2e-9bd34f1ab018,27-10-2022,02:54:07,ATM Withdrawal,Restaurant,North Rickyton,11,848.44,GBP,Approved,Standard,Mobile Payment
+41354d4e-35cc-4db1-8ab2-bf2d3c0034a3,23-05-2023,15:03:53,Online Payment,Retail,East Marissa,2,355.51,EUR,Approved,Gold,Online
+14eb6896-bd99-4c5c-9b5a-b350c7fbe6c2,11-06-2023,21:57:33,Purchase,Online Services,North Kevinmouth,2,648.12,USD,Approved,Standard,Physical Card
+f2f3ea8f-6c7b-4274-a111-2355473de90f,27-08-2023,13:42:07,ATM Withdrawal,Restaurant,Robertsonbury,12,812.82,USD,Declined,Gold,Mobile Payment
+bdc99410-c5ae-4062-bd43-e3a27c457ae9,05-01-2023,01:50:55,ATM Withdrawal,Restaurant,South Elizabeth,5,223.17,EUR,Pending,Standard,Mobile Payment
+cd019ab7-cfe0-4f72-956a-58b417362e84,10-03-2023,13:25:25,Online Payment,Retail,Jamesstad,2,567.3,GBP,Declined,Standard,Mobile Payment
+fb8a1e85-b2e7-4e88-9950-a77b9656be7f,02-02-2023,07:22:42,ATM Withdrawal,Online Services,Lake Marialand,2,826.57,EUR,Approved,Standard,Mobile Payment
+4c5d95fd-22c7-466d-90d9-da5f2089c246,29-03-2023,02:46:58,Purchase,Restaurant,Taraborough,14,487.45,USD,Approved,Gold,Mobile Payment
+31f5f9b2-be8b-478c-9162-742f4bbfd4c9,12-03-2023,12:15:52,Purchase,Online Services,East Brendaview,20,664.51,EUR,Approved,Platinum,Mobile Payment
+493093fa-b3c3-4544-81a3-38294d036a32,28-08-2023,17:40:29,Online Payment,Online Services,Natashachester,1,559.8,USD,Pending,Platinum,Physical Card
+da51abb9-de99-40e9-ae6f-54798325bd6f,10-01-2023,22:13:50,ATM Withdrawal,Online Services,Martinezshire,17,163.6,EUR,Declined,Platinum,Mobile Payment
+cf4f01d7-d39b-4462-a5db-836adefd6804,04-05-2023,14:16:59,Purchase,Online Services,Kylebury,3,25.01,USD,Declined,Platinum,Online
+610871bc-c9b2-4462-bddc-5adb1afd8089,13-04-2023,21:13:00,ATM Withdrawal,Retail,East Karenfort,4,819.01,USD,Declined,Platinum,Mobile Payment
+beb11d21-950e-43f3-9276-eb729291c1af,05-01-2023,05:12:13,ATM Withdrawal,Online Services,Lake Robert,5,848.06,EUR,Pending,Platinum,Mobile Payment
+30ebc468-f290-4599-8e9b-22bac49c39b6,18-02-2023,19:34:01,Online Payment,Restaurant,Port Vanessaborough,1,628.39,GBP,Pending,Standard,Mobile Payment
+c3cba25a-07aa-412a-8dce-48619296c549,23-02-2023,08:07:11,Online Payment,Online Services,Lake Margaretshire,10,351.12,EUR,Pending,Standard,Online
+45406fc3-0ed2-4935-bf9a-6d3f98555854,07-08-2023,22:38:48,Purchase,Restaurant,North Karenville,11,588.81,USD,Declined,Platinum,Online
+ccfdfc29-4572-4c83-bfee-13c93558f88b,01-01-2023,06:00:28,Online Payment,Online Services,Lake Edwinchester,13,951.24,USD,Pending,Gold,Online
+ed90707c-ee4f-44ca-9e8a-89e48d8a25be,06-06-2023,09:20:18,Online Payment,Online Services,Zavalaton,7,608.72,GBP,Approved,Gold,Mobile Payment
+ff4a65de-02f3-4fe3-9541-57c811d30e58,08-04-2023,03:30:13,Online Payment,Online Services,East Loristad,2,161.3,USD,Approved,Platinum,Mobile Payment
+412a5b1d-b984-4790-a74d-d1e1571a3106,03-08-2023,04:36:06,Online Payment,Retail,West Matthew,20,341.86,EUR,Approved,Platinum,Online
+dbafa540-a61d-4bab-9a2c-3b52c0a77bde,07-10-2022,23:30:01,Purchase,Online Services,New Matthew,15,742.35,GBP,Approved,Platinum,Mobile Payment
+41de62b4-805a-4fec-a0aa-951ed890ae96,02-08-2023,06:19:40,Online Payment,Online Services,West Andrew,11,970.41,EUR,Declined,Gold,Physical Card
+c1a2baa7-77b0-4ef2-95f2-921f327bbc31,04-11-2022,07:13:17,Online Payment,Retail,West Kristinaburgh,18,467.84,EUR,Pending,Standard,Online
+a0d23cf1-01e1-4884-a561-200e7363ce49,21-01-2023,10:58:04,Online Payment,Online Services,Beltranchester,1,311.17,GBP,Pending,Standard,Online
+42016e4f-830e-4c01-8b09-7edd09d647fc,11-01-2023,07:43:45,Purchase,Restaurant,Lake Felicia,6,323.15,EUR,Approved,Standard,Online
+4f925218-150e-44b0-84df-b3aff8b59546,30-07-2023,16:24:28,ATM Withdrawal,Restaurant,Evansside,11,748.28,EUR,Approved,Standard,Online
+cec84eda-6272-4e08-ac1f-af445a3d900f,05-03-2023,17:25:23,Purchase,Restaurant,Gonzalezchester,15,626.17,GBP,Approved,Platinum,Physical Card
+0e6083af-c265-425e-bf69-0a80eed126a2,10-11-2022,07:30:36,ATM Withdrawal,Online Services,Royburgh,20,974.01,GBP,Pending,Platinum,Mobile Payment
+f3916a33-cb2b-48ec-b0a7-4bfae82331c8,12-08-2023,16:00:29,Purchase,Restaurant,Debrabury,12,315.14,EUR,Approved,Standard,Online
+12ea79ba-74b0-45f9-8da5-589aa0fec0ba,30-09-2022,06:26:18,ATM Withdrawal,Online Services,East Marciastad,14,689.47,GBP,Approved,Standard,Physical Card
+0d6e7faf-071d-4dae-8331-8ba6dfeca0e0,30-09-2022,04:25:36,ATM Withdrawal,Restaurant,Phillipsburgh,15,52.62,GBP,Declined,Standard,Online
+82184732-5a51-4c52-96e5-0d017087e467,09-12-2022,15:15:04,ATM Withdrawal,Online Services,Waltontown,3,162.4,EUR,Pending,Standard,Online
+12057f7e-0e65-4a54-93d0-70c85eeb6354,18-08-2023,06:02:59,Purchase,Retail,West Jeffhaven,5,941.77,GBP,Pending,Standard,Physical Card
+0a2ca53e-e06f-4006-88e6-8fd345676951,28-01-2023,17:12:26,Purchase,Restaurant,Port Stephanie,16,279.97,GBP,Approved,Platinum,Online
+68728ed2-23d0-44c0-9254-95f192e49de4,27-01-2023,15:31:30,ATM Withdrawal,Retail,New Miranda,2,422.73,USD,Approved,Platinum,Mobile Payment
+43e97e64-562d-419b-8803-a807ecdaa646,14-02-2023,22:34:29,Purchase,Online Services,Brendafort,15,488.99,GBP,Pending,Standard,Mobile Payment
+f9d250e0-4f04-489d-8a20-23355288a718,03-08-2023,14:05:36,Purchase,Online Services,Crystalland,2,467.69,GBP,Declined,Platinum,Physical Card
+841471ee-5cce-40a5-9f8b-042997f632fa,19-08-2023,19:01:36,Online Payment,Retail,Ryantown,1,507.03,EUR,Pending,Gold,Physical Card
+2480872c-8bea-4805-a550-d814f0e12ab7,16-01-2023,12:34:23,ATM Withdrawal,Restaurant,Williamfort,11,175.79,GBP,Approved,Platinum,Physical Card
+cc045d15-8fc8-4872-bb75-38bfab17143a,11-06-2023,06:05:53,Online Payment,Online Services,North Crystal,19,181.97,GBP,Declined,Gold,Physical Card
+d1552127-d98b-4c40-b635-9a3acee45f9a,27-06-2023,16:17:41,Online Payment,Online Services,Stevenfurt,1,357.51,USD,Approved,Platinum,Online
+7d2daf36-1623-4f3a-9866-6d0a16832dc4,13-10-2022,16:39:09,Purchase,Online Services,New Jamesfurt,7,566.86,EUR,Pending,Platinum,Mobile Payment
+629519b1-6420-40fa-98c3-0f7651bfaeb4,07-10-2022,12:03:15,Online Payment,Online Services,Johnsonshire,7,187.81,GBP,Approved,Gold,Online
+6e1e0b48-fc58-47af-9aa2-cec7928ca1b9,24-03-2023,18:25:41,ATM Withdrawal,Restaurant,New David,13,359.23,USD,Declined,Gold,Physical Card
+bc38f277-5eef-49ba-8b16-a881fefdc5c7,29-07-2023,07:57:13,ATM Withdrawal,Retail,Mitchellton,13,673.76,USD,Declined,Platinum,Mobile Payment
+b1771ffb-86ad-4627-9bd7-f66e402743c6,29-11-2022,15:55:42,Purchase,Online Services,Russellside,2,272.65,EUR,Declined,Standard,Mobile Payment
+b6f07358-9c2a-4844-bae3-0e8217ae0337,25-06-2023,20:02:47,ATM Withdrawal,Restaurant,North Justinchester,9,615.26,USD,Declined,Gold,Online
+c713d463-8e5d-4f82-9b83-d77ca1d94457,24-11-2022,22:02:56,Purchase,Restaurant,Port Lisa,15,777.74,USD,Pending,Standard,Mobile Payment
+c55b4523-a338-467a-b72a-1d9974d8c4ae,01-07-2023,20:24:13,Purchase,Restaurant,East Amber,5,621.98,EUR,Declined,Platinum,Online
+70b8c002-966c-462f-9ced-afbc0fc13fbb,15-02-2023,12:43:00,Online Payment,Retail,Jenniferstad,12,633.33,GBP,Pending,Standard,Mobile Payment
+93d8d4b0-3dd8-42b3-9bd9-a7aa0da603bc,05-02-2023,01:24:17,Purchase,Restaurant,Hernandezbury,14,35.96,USD,Pending,Gold,Mobile Payment
+7483553d-ed55-466f-8710-319c694d3750,15-05-2023,07:57:08,Purchase,Retail,East Lindsaymouth,17,594.52,GBP,Declined,Standard,Mobile Payment
+cf57d7e1-cfa7-4ba8-8c69-c886e97c282e,24-10-2022,18:24:03,Purchase,Online Services,West Barbaraland,12,511.11,USD,Approved,Standard,Physical Card
+73b0f088-f998-4d53-bf28-6ebf9c3f9c16,21-03-2023,01:39:38,ATM Withdrawal,Online Services,South Robertview,16,172.94,EUR,Declined,Gold,Online
+7cfebdfc-3a3d-4bea-b1ea-32bcc7adceb7,16-04-2023,19:42:38,Online Payment,Restaurant,Ruthshire,3,549.98,EUR,Declined,Standard,Physical Card
+80856771-eba0-4d3d-8e37-51690c362eac,23-06-2023,15:54:47,Online Payment,Restaurant,Tammyshire,10,162.1,EUR,Declined,Standard,Physical Card
+f8598406-4f1e-4bc9-bd6b-1ef75a5c1da1,26-10-2022,06:21:50,Purchase,Restaurant,Port Angelafort,13,101.53,GBP,Pending,Gold,Online
+250793b8-008f-4503-b8c8-6788c07be21b,25-01-2023,02:50:49,Purchase,Online Services,Lake Richardport,20,526.45,USD,Approved,Gold,Physical Card
+74c8371f-6a78-44c4-9345-3da44d081038,09-05-2023,18:32:20,Purchase,Retail,Graymouth,12,399.56,EUR,Approved,Platinum,Physical Card
+b09f8424-4b43-4c02-8a44-df7ff1313466,01-03-2023,16:32:48,Online Payment,Retail,Gloriaborough,17,921.81,USD,Pending,Standard,Mobile Payment
+2b7b6474-c29c-4395-bdf4-cc811bb4505a,26-07-2023,21:31:11,Purchase,Online Services,Debraburgh,20,448.7,EUR,Approved,Gold,Online
+a1e6a5d4-ad1d-49be-88ab-ace3d577c52a,11-10-2022,20:56:37,ATM Withdrawal,Retail,Seanmouth,13,791.37,EUR,Approved,Platinum,Online
+ccabdecc-f7fe-4285-81d3-7f04b8f8fce2,03-10-2022,15:27:45,Online Payment,Restaurant,Lake Charlesfurt,19,165.47,USD,Pending,Platinum,Online
+c4b2d1cb-0ae2-460d-a8da-fb21c89f5f29,23-04-2023,07:26:06,Purchase,Online Services,New Mary,14,364.68,USD,Approved,Gold,Mobile Payment
+2334c067-cfec-4d03-9b94-d1aa89dc5f3e,14-04-2023,00:11:29,ATM Withdrawal,Online Services,Lake Johnmouth,11,976.21,USD,Pending,Standard,Online
+69105361-e167-4807-9267-10464d0ad67f,11-03-2023,20:45:24,ATM Withdrawal,Online Services,Williamsfurt,11,736.08,GBP,Declined,Standard,Online
+ee738362-1ffc-4ebe-839e-a5a0ec6349aa,22-07-2023,07:46:22,ATM Withdrawal,Restaurant,East Angela,4,900.5,GBP,Declined,Platinum,Physical Card
+2846315a-69fa-45e0-a102-3bd0740150e7,23-06-2023,10:49:02,ATM Withdrawal,Retail,Lake Sarah,19,213.07,USD,Pending,Standard,Online
+c8d05548-06ee-4c9b-af93-6c4d3a9769d3,20-03-2023,07:59:01,Purchase,Restaurant,Bentonfurt,14,767.4,GBP,Pending,Gold,Online
+46b0a4bc-c040-4422-9dcf-73a32edae43e,16-01-2023,10:47:16,Online Payment,Restaurant,Christietown,19,374.15,USD,Pending,Gold,Physical Card
+6da63816-3144-4693-a083-e00649709225,09-08-2023,19:19:47,Purchase,Retail,New Brooke,18,633.58,EUR,Pending,Platinum,Online
+fc3fe92c-a2fc-4da4-8a4b-aa3c398e67c3,27-08-2023,19:48:47,ATM Withdrawal,Online Services,Atkinsshire,2,166.95,USD,Declined,Platinum,Online
+1840a1c2-aecf-4d41-92e7-9da4ac882036,04-10-2022,04:25:01,Purchase,Retail,New April,18,496.72,EUR,Pending,Standard,Mobile Payment
+49c249dd-df7d-4ecb-a806-e0fce3ed417d,11-11-2022,05:29:10,Online Payment,Restaurant,Harriston,18,477.12,EUR,Declined,Standard,Mobile Payment
+03503d94-e26b-4927-bc76-64ea08805754,25-03-2023,07:06:59,ATM Withdrawal,Restaurant,South Jessicaside,4,259.11,GBP,Declined,Gold,Mobile Payment
+04caf9cb-8194-4821-977a-37f91702b94a,07-06-2023,07:55:38,ATM Withdrawal,Online Services,Knightstad,1,228.92,GBP,Approved,Standard,Mobile Payment
+bb8973fb-c6d3-4630-87d0-e050adf08f68,26-09-2023,01:37:36,Online Payment,Restaurant,Kirkmouth,12,455.18,EUR,Declined,Standard,Mobile Payment
+0451b751-0540-4027-971f-cb3dc547ef96,27-02-2023,15:41:17,Purchase,Restaurant,Latashastad,18,946.07,EUR,Approved,Standard,Mobile Payment
+70785ab1-f299-4d66-af67-95d0fffb65d6,16-05-2023,09:05:08,Online Payment,Online Services,Darleneborough,12,489.72,GBP,Pending,Platinum,Physical Card
+75a9abe5-6891-4f0d-b390-b3ac112064b9,23-10-2022,18:08:11,Online Payment,Restaurant,Elizabethbury,15,162.19,GBP,Pending,Gold,Online
+92a369bb-771f-4c64-b002-144bf5498acf,04-12-2022,15:46:57,Purchase,Retail,Brownberg,4,60.51,GBP,Declined,Gold,Physical Card
+715bcc0e-67ce-4de7-8f15-a1f22448dce1,04-10-2022,15:49:58,ATM Withdrawal,Restaurant,East Glennburgh,11,751.1,GBP,Approved,Standard,Mobile Payment
+c1fd24d2-973b-48b9-8edd-0b3d10582b4f,09-02-2023,12:40:41,ATM Withdrawal,Online Services,Heatherview,18,142.7,GBP,Pending,Gold,Physical Card
+023076ba-4594-485a-81ac-f0955d25b1a1,27-09-2023,18:38:40,ATM Withdrawal,Retail,Carolshire,9,59.4,GBP,Declined,Standard,Physical Card
+281bb24d-918b-41ac-bfd9-7e4fd6656a63,01-04-2023,08:15:22,Purchase,Retail,West Megan,16,904.32,USD,Declined,Standard,Online
+bc413c8e-0bbe-4a8d-85b4-d8d4120bffb4,21-02-2023,20:40:00,Purchase,Retail,Blakeville,20,887.06,EUR,Pending,Gold,Physical Card
+66a9c39a-eaee-435a-859a-ebee2bae6f18,26-08-2023,05:45:19,ATM Withdrawal,Restaurant,Castilloside,7,918.62,USD,Pending,Standard,Online
+7a2cabbe-ae2b-48d8-86c5-af0bdbd9366e,19-06-2023,21:57:18,Online Payment,Restaurant,Lake Tammy,13,647.11,EUR,Approved,Platinum,Mobile Payment
+d423b26e-0630-48cc-9591-1261ecd82d11,29-09-2022,09:40:26,Purchase,Retail,Angelshire,4,473.02,USD,Pending,Gold,Online
+fb489e08-5616-493e-9645-9337dcfd3dc0,09-08-2023,16:14:10,Online Payment,Online Services,West Paul,1,769.6,GBP,Declined,Platinum,Mobile Payment
+e57b8238-5ec0-40ab-ae35-fec176cf97f5,27-10-2022,15:36:10,ATM Withdrawal,Online Services,West Ronald,10,169.48,USD,Approved,Gold,Physical Card
+0744c189-8d4b-4567-b2d2-f8e91257d482,19-07-2023,06:55:03,Online Payment,Restaurant,North Charles,8,437.68,GBP,Approved,Gold,Physical Card
+a5b006f7-e021-44a9-b3fd-c917cc801ffc,27-06-2023,03:36:28,Purchase,Retail,Port Justin,10,834.93,USD,Declined,Standard,Mobile Payment
+45df4f91-b31f-4aba-9e65-b0014b17a015,08-12-2022,05:48:59,ATM Withdrawal,Restaurant,Adkinsland,11,153.31,GBP,Approved,Platinum,Online
+622d8f8a-bea6-480f-9eb5-36295205ea14,11-11-2022,20:44:48,Purchase,Online Services,Monicaton,18,39.38,USD,Approved,Gold,Mobile Payment
+688f9a11-4eef-4e56-9f1a-b913cdaf9a91,09-09-2023,07:48:55,ATM Withdrawal,Restaurant,East Travischester,17,26.47,GBP,Approved,Platinum,Online
+520a1083-5706-4019-827b-97cd29aa2b26,01-08-2023,17:54:48,Purchase,Retail,Collinsbury,12,345.61,EUR,Approved,Platinum,Mobile Payment
+76b46185-d361-43dd-a1d1-f10dddea79ed,21-02-2023,09:35:48,Online Payment,Online Services,Fordmouth,5,931.71,GBP,Approved,Gold,Physical Card
+d7378846-a046-4b07-a05e-a649d178d31c,31-05-2023,17:49:57,ATM Withdrawal,Retail,Nicholasmouth,15,418.59,GBP,Pending,Gold,Mobile Payment
+cf361d0b-746e-43fe-bd7f-64ff9d380138,17-05-2023,01:25:59,Purchase,Online Services,East Tonyatown,1,278.3,EUR,Pending,Gold,Mobile Payment
+411eb65f-1eaf-4cb4-a7b9-396cb9633f9e,17-02-2023,10:44:42,Purchase,Retail,New Benjamin,11,428.94,USD,Declined,Standard,Physical Card
+f9f172e5-ce53-4941-bedf-39e3d86e8511,28-12-2022,17:02:27,ATM Withdrawal,Online Services,New Stephaniehaven,4,305.54,EUR,Approved,Platinum,Online
+0f2b5d7d-880f-4c9e-897a-86e06f4c5dac,25-04-2023,06:05:20,Online Payment,Online Services,Padillaview,17,77.5,EUR,Approved,Standard,Mobile Payment
+253d8a38-ee2f-463b-b113-9a1409ced6b4,24-01-2023,16:00:50,Online Payment,Retail,Ruthchester,12,464.05,USD,Declined,Platinum,Online
+c311ec16-a977-40ba-acd0-f479b833af29,01-10-2022,09:18:31,Purchase,Online Services,Fowlerfurt,1,132.26,EUR,Pending,Platinum,Online
+b9581a67-ad14-45e4-8e21-1f10440a6bd8,20-11-2022,23:33:10,ATM Withdrawal,Retail,Kaylaview,10,367.75,GBP,Approved,Platinum,Mobile Payment
+0bb8fc2c-9941-4cc6-be56-057dd06ac380,07-06-2023,10:42:37,Online Payment,Restaurant,Port Jeffreymouth,12,530.93,EUR,Declined,Platinum,Mobile Payment
+354cb47f-7201-4869-a583-cee12fcba6b3,23-04-2023,09:49:22,Online Payment,Retail,Emilyborough,1,904.07,GBP,Declined,Standard,Online
+87ef268b-895e-4e8d-99d5-c4ab7515f5f9,18-09-2023,04:07:27,Purchase,Retail,West Chelseatown,6,272.1,USD,Pending,Gold,Mobile Payment
+4ef63a77-ca76-427b-b7f1-b8a85e1b14f1,17-03-2023,16:48:58,ATM Withdrawal,Restaurant,Deniseland,11,879.75,EUR,Approved,Standard,Online
+1c35c432-9171-4ee0-9273-1ba5b4f3d946,23-09-2023,01:18:10,Online Payment,Online Services,Houseborough,20,655.66,GBP,Approved,Platinum,Mobile Payment
+7ea5468c-f58c-4a84-b37e-f3af0ecdf3e1,19-08-2023,13:14:30,ATM Withdrawal,Online Services,North Carolineside,14,986.84,GBP,Approved,Standard,Online
+4af5db41-10ca-4692-ae58-e0d5d386ca60,19-08-2023,02:31:38,Purchase,Online Services,Amyview,2,880.35,USD,Declined,Gold,Mobile Payment
+61b70562-3954-443e-a8fc-b2ee3c35486a,12-09-2023,11:13:56,ATM Withdrawal,Retail,Delgadoview,7,81.69,GBP,Declined,Standard,Physical Card
+56553423-684b-45ef-acef-783218ce712e,06-09-2023,18:18:24,ATM Withdrawal,Restaurant,South Michael,13,542.54,EUR,Declined,Gold,Mobile Payment
+3852e3a0-48a3-4df5-b031-5a51cee04d72,19-09-2023,16:37:32,ATM Withdrawal,Retail,Brittanystad,4,186.45,USD,Declined,Platinum,Mobile Payment
+6720a11f-2429-4f3a-8950-992d199664e3,09-09-2023,12:33:01,ATM Withdrawal,Online Services,Johnfort,14,15.12,GBP,Declined,Gold,Mobile Payment
+9d4244cf-9a5a-4bf9-8ddd-a9d9d832ff33,21-01-2023,05:35:42,Online Payment,Online Services,Michaelport,6,882.06,USD,Declined,Platinum,Physical Card
+ba24cc73-9c14-4da4-a4c7-68f66396069a,15-05-2023,04:59:29,Purchase,Online Services,Jamestown,14,147.41,GBP,Declined,Standard,Online
+45adca8b-4e98-4723-9b29-229a3c612cb4,13-03-2023,21:10:28,Online Payment,Online Services,Johnmouth,4,54.94,USD,Pending,Standard,Mobile Payment
+c80a1fbe-e67d-4d9e-8ec3-08340ff5fc30,23-08-2023,23:41:51,ATM Withdrawal,Retail,Anthonyside,10,898.54,EUR,Approved,Platinum,Online
+e4291b30-9093-44f7-9ee6-2180487cad88,13-01-2023,10:20:01,Online Payment,Retail,Ramirezville,1,66.7,GBP,Pending,Gold,Mobile Payment
+0e8895fb-46f0-491d-a46d-bea305deafd3,20-03-2023,18:23:55,Online Payment,Online Services,East Michael,20,834.4,USD,Pending,Platinum,Physical Card
+dd26d273-c74b-4244-99a4-b035ed2beb41,20-06-2023,04:32:24,Purchase,Online Services,East Brian,9,865.02,EUR,Approved,Standard,Online
+1d486f3d-3da9-46a0-b400-16d6291a336b,09-08-2023,22:39:25,Purchase,Retail,Port Alecshire,14,290.89,EUR,Pending,Standard,Online
+f13ed3f6-526f-48f2-9601-c49dd7ecb820,07-02-2023,23:42:55,ATM Withdrawal,Online Services,Joshuastad,13,720.55,USD,Pending,Platinum,Mobile Payment
+ced6377d-540d-4c0e-a16d-ab67afb3b51d,06-09-2023,03:58:45,ATM Withdrawal,Retail,Lake Barbaraberg,19,232.23,GBP,Declined,Standard,Physical Card
+104c1183-4a17-4340-97a7-0ae12798aac3,24-12-2022,03:00:28,ATM Withdrawal,Restaurant,South Darryl,15,883,GBP,Approved,Platinum,Mobile Payment
+9c8027ea-7ff0-451e-875a-3d42d21e2669,29-09-2023,03:19:58,Online Payment,Restaurant,East Kaylaton,8,505.97,USD,Pending,Gold,Physical Card
+616f6818-2b0e-456c-a4cf-937de956c628,08-02-2023,09:11:17,Online Payment,Restaurant,West Justinport,4,386.3,USD,Pending,Standard,Physical Card
+cd110e6a-b90e-4092-8d8b-29a18fad5e7f,10-10-2022,06:41:35,Purchase,Retail,West Alison,1,441.24,GBP,Declined,Platinum,Physical Card
+458a9008-8398-4ef4-ac7b-9a6fbac46da7,12-03-2023,12:42:56,Online Payment,Retail,Port Marco,4,681.89,GBP,Pending,Standard,Mobile Payment
+a6518c7d-ced9-42ed-9ea3-f06a0b51d7f6,07-08-2023,08:11:10,Purchase,Retail,Port Jorge,17,109.21,GBP,Declined,Gold,Mobile Payment
+3c37a942-ec2e-47bf-b9af-3609e37b9ff1,13-12-2022,12:57:12,ATM Withdrawal,Retail,Krystalmouth,6,361.18,EUR,Approved,Platinum,Mobile Payment
+78aa9cb6-1185-4dad-8721-a0d1841ac705,23-05-2023,00:04:12,Online Payment,Restaurant,Katiefurt,11,329.88,EUR,Pending,Standard,Physical Card
+35d6fe71-520c-43c2-af9d-083663738e0f,16-04-2023,10:08:43,Purchase,Online Services,East Cynthiaberg,10,735.25,EUR,Pending,Platinum,Mobile Payment
+6835157e-906f-460c-add0-8cebc678a1af,19-11-2022,20:20:14,Online Payment,Restaurant,New Mike,2,783.08,GBP,Pending,Platinum,Physical Card
+490b9d67-c940-4a84-abac-caf1c1567861,19-08-2023,19:35:29,Purchase,Retail,East Zacharystad,18,670.7,GBP,Approved,Gold,Physical Card
+db401e9a-b69c-4eba-ba94-90175f84fc01,25-09-2023,06:22:07,Online Payment,Retail,North Teresaborough,15,604.78,EUR,Pending,Standard,Physical Card
+1297776a-7393-4fb5-b1c6-9cd37684a222,17-08-2023,05:36:48,ATM Withdrawal,Online Services,Washingtonland,3,36.25,USD,Approved,Platinum,Mobile Payment
+81a0f460-b98a-4304-8a13-b31b3ab740de,17-05-2023,07:16:24,Online Payment,Retail,Coreyville,20,341.08,GBP,Approved,Standard,Online
+bc7eb4f3-080d-4676-8014-3f844f913e6d,20-10-2022,12:07:25,ATM Withdrawal,Online Services,West Kayla,18,453.68,EUR,Declined,Gold,Mobile Payment
+0ad2febe-d438-4bfd-aa55-7817196171de,19-02-2023,00:03:47,ATM Withdrawal,Retail,Bakertown,15,129.14,USD,Declined,Standard,Online
+aee6a71c-ae45-4eff-88c0-63ba6fb22de9,11-05-2023,11:43:31,ATM Withdrawal,Online Services,North Jenniferville,2,424.29,EUR,Declined,Gold,Mobile Payment
+af80ab6b-289c-4cbd-b5db-feff23bb842c,08-07-2023,19:04:46,ATM Withdrawal,Retail,Lake Amanda,5,223.37,EUR,Approved,Gold,Online
+84dee784-fa31-4223-af6e-111f0520b78b,19-07-2023,19:00:29,Purchase,Online Services,Gibsonland,5,302.83,GBP,Declined,Standard,Physical Card
+66811863-9259-4097-a250-1c619e9732d9,17-12-2022,16:05:33,Online Payment,Restaurant,Courtneyberg,10,313.7,USD,Declined,Standard,Online
+c71b2e87-538e-495d-9fdc-6e34e4250d33,21-02-2023,18:24:03,ATM Withdrawal,Online Services,West Charlenemouth,7,47.86,USD,Pending,Standard,Physical Card
+e99bc689-81d3-4c6d-9c71-5e0aa001c66a,01-02-2023,07:51:07,Purchase,Online Services,New Stephanie,6,245.84,EUR,Declined,Gold,Physical Card
+3af1e8eb-ce5b-490d-bfc3-637bafe5ab38,26-05-2023,10:43:18,Online Payment,Online Services,Lake Robert,5,997.31,EUR,Declined,Gold,Physical Card
+3ad020d0-0064-4e1f-9198-73917e75c56d,23-11-2022,06:03:17,Online Payment,Restaurant,Port Davidview,11,600.46,GBP,Approved,Standard,Physical Card
+028e91dd-44c8-4e15-87e4-b0a6a95a7e8e,25-06-2023,12:12:14,Purchase,Restaurant,Edwardsfort,11,921.57,GBP,Approved,Gold,Online
+c0a144b2-4022-41e7-ad9c-6634f84202a2,21-04-2023,00:34:42,Online Payment,Retail,Kelleyville,4,44.91,USD,Declined,Gold,Physical Card
+330ef324-99cf-46d4-b123-871b23e55deb,15-03-2023,17:44:30,Online Payment,Online Services,Lake Lauren,20,592.02,GBP,Declined,Standard,Online
+b8737640-cdd0-4981-977d-575fe57f1291,01-01-2023,03:13:00,ATM Withdrawal,Restaurant,North Bryanland,19,694.58,EUR,Pending,Gold,Mobile Payment
+9b6b94f2-b70b-443e-8649-f28ba5f649f8,23-01-2023,22:10:04,ATM Withdrawal,Retail,Lake Victor,3,325.39,GBP,Declined,Gold,Physical Card
+06244c24-e9fe-40b6-b500-2895bdd31c1c,09-07-2023,15:00:33,ATM Withdrawal,Restaurant,West Amber,15,98.46,GBP,Pending,Gold,Mobile Payment
+e0e76bc1-c4d0-47c5-b0eb-c00495041ec2,16-12-2022,03:25:35,Purchase,Restaurant,Robinton,1,486.17,GBP,Declined,Standard,Online
+9c9832ba-fb6b-4e97-a083-39198530aadd,20-05-2023,09:02:57,Online Payment,Restaurant,Longfurt,13,211.09,EUR,Approved,Standard,Physical Card
+0b0f011c-9025-4cda-9018-539ce2d5282d,16-04-2023,23:58:01,Purchase,Retail,Barbarabury,14,847.5,USD,Pending,Standard,Mobile Payment
+47958379-d1a4-4d2e-9cc0-69916382b671,13-06-2023,03:51:48,Purchase,Retail,Davistown,14,44.52,GBP,Pending,Standard,Online
+a7ae67b0-3998-4806-8941-2849d7273789,20-03-2023,19:52:10,Online Payment,Online Services,New Denisemouth,9,65.54,EUR,Pending,Platinum,Online
+1dd63950-4eb9-4ec1-a041-2f7616a8657f,12-03-2023,15:35:44,Purchase,Retail,Meghanmouth,7,345.87,EUR,Pending,Standard,Mobile Payment
+aa8ce562-461d-473a-930a-20b56c5db3ea,19-01-2023,21:48:05,Purchase,Online Services,South Andrea,7,268.5,USD,Pending,Platinum,Physical Card
+d0354721-b34f-4bf2-a1fb-80c3ddc45642,25-08-2023,12:01:46,Online Payment,Online Services,Brooksberg,6,538.33,EUR,Pending,Gold,Physical Card
+832cfb02-aded-4cb9-a22f-f0d7b4392472,03-08-2023,12:42:24,Purchase,Retail,Stevenfurt,3,169.02,EUR,Pending,Gold,Physical Card
+c3af150a-78fc-457e-a9ef-87ebfb07e7d7,02-03-2023,18:34:57,ATM Withdrawal,Retail,Christinabury,2,620.35,GBP,Pending,Standard,Online
+90bab2b4-6d13-4911-8066-c8de48897539,13-06-2023,04:05:25,ATM Withdrawal,Online Services,West Miguelport,14,275.95,EUR,Pending,Platinum,Online
+b9780fdd-1496-4137-b500-4e7e8597540b,26-03-2023,04:25:23,ATM Withdrawal,Online Services,South Jennifer,2,305.22,USD,Declined,Standard,Online
+d6ccd35c-a113-4a7b-8b43-b8c5d84916f3,01-10-2022,12:36:12,Purchase,Retail,Roweview,11,634.18,USD,Approved,Standard,Online
+dffd4fb1-bf0b-4aa6-8622-2911afaae41e,06-01-2023,14:24:37,ATM Withdrawal,Online Services,Weissmouth,12,494.8,EUR,Declined,Platinum,Mobile Payment
+c0389a30-6680-4d4d-b03e-972bc8acd1c6,30-09-2022,10:51:38,Online Payment,Retail,North Katiestad,5,192.72,GBP,Approved,Platinum,Online
+0fa71d28-af8e-4e83-94c3-cf12cd0373a0,22-02-2023,10:14:42,Purchase,Restaurant,Mariafurt,16,482.9,USD,Declined,Standard,Physical Card
+c107ab0c-2e78-40a5-b0a6-a71e95bd23b5,07-12-2022,01:38:26,Purchase,Online Services,Thompsonstad,10,474.72,GBP,Pending,Platinum,Mobile Payment
+c081d4bb-65f5-475b-9c3d-be272d84c3d9,31-08-2023,15:48:23,ATM Withdrawal,Retail,Sharonmouth,3,317.61,USD,Pending,Gold,Mobile Payment
+3991b3cb-7aa6-4bf2-982a-aa4d15e3a3b3,21-04-2023,22:04:06,Purchase,Restaurant,South Michael,11,52.37,EUR,Approved,Standard,Online
+855731d7-4b41-4776-b261-29024b33e2cb,25-08-2023,15:13:55,Purchase,Retail,Mathewport,8,570.49,GBP,Approved,Gold,Mobile Payment
+0991146a-99d5-4ee8-9ba9-dbe2caf21000,08-04-2023,23:39:10,Online Payment,Online Services,East Annaport,20,634.13,EUR,Pending,Standard,Mobile Payment
+ea08f11b-3369-4a96-87a2-7a36cc534260,29-01-2023,07:51:38,ATM Withdrawal,Retail,Smithfurt,16,755.53,GBP,Pending,Platinum,Physical Card
+1d4cd22b-e338-40a3-807f-a43b32011f24,19-12-2022,18:50:12,Purchase,Online Services,Houseburgh,20,616.86,USD,Approved,Gold,Physical Card
+7ce97b63-ec7b-4502-b3df-3bdc7c52609a,29-09-2022,17:29:55,Purchase,Restaurant,Lake Geraldhaven,10,598.43,EUR,Pending,Standard,Mobile Payment
+49b9167d-c0c5-4fb7-825a-854a5944ed7c,05-10-2022,02:17:28,Purchase,Retail,East Suzanne,7,58.75,EUR,Pending,Standard,Mobile Payment
+7b11477a-5e15-4b91-b92f-5fcfaa2ab367,19-05-2023,16:41:21,ATM Withdrawal,Online Services,Port Annachester,1,242.29,EUR,Approved,Standard,Physical Card
+fc9b2d4d-e1db-4af4-b643-2ada8e0e13e1,01-09-2023,10:03:48,Purchase,Retail,Robertburgh,16,731.3,EUR,Approved,Standard,Physical Card
+ed66c3e9-6d72-4bf3-b8df-c63da5f5d3da,22-05-2023,08:01:02,Purchase,Restaurant,West Dianachester,7,291.25,USD,Approved,Gold,Online
+b5ccc667-4740-4cf2-8059-8d729d471e5f,27-10-2022,11:55:09,ATM Withdrawal,Retail,Hunterhaven,6,154.5,GBP,Declined,Gold,Mobile Payment
+435e308d-115c-4e36-b828-e9346d74bcaf,07-04-2023,19:12:59,Purchase,Restaurant,East Robertshire,19,270.12,GBP,Approved,Standard,Mobile Payment
+979e3408-59a9-44f9-b433-2b251408d1ce,23-01-2023,08:50:21,Purchase,Restaurant,Davidfort,18,114.68,USD,Pending,Platinum,Online
+79835603-b98b-463f-8972-b778defbcd75,05-09-2023,07:08:22,Purchase,Online Services,New Stuartshire,8,919.37,EUR,Approved,Standard,Mobile Payment
+6c93bb12-8063-4503-8261-ea7983cf9bf3,13-04-2023,12:57:24,Online Payment,Retail,New William,14,650.94,EUR,Approved,Gold,Mobile Payment
+954737a3-84c4-4857-b3b5-af180f8f0a4a,10-10-2022,19:05:28,Online Payment,Restaurant,Marisaburgh,6,994.65,USD,Declined,Gold,Online
+3cd1e1dd-96bf-4362-9f80-f6e0cc67caf0,02-10-2022,01:46:36,Purchase,Online Services,Waltersport,17,597.54,GBP,Pending,Gold,Physical Card
+446d4c6b-207c-4cb3-92c4-6cabe4a80067,18-09-2023,22:23:07,Purchase,Restaurant,Marcustown,5,320.94,USD,Declined,Gold,Online
+adbf30ea-1133-495c-b3d6-ba39daa89beb,17-07-2023,07:22:08,Purchase,Restaurant,East Ashley,4,817.27,EUR,Declined,Gold,Online
+14b4542d-8ce5-4c84-840e-99e619872b31,18-11-2022,16:03:45,ATM Withdrawal,Online Services,Sellersborough,14,88.35,EUR,Declined,Standard,Mobile Payment
+62f45582-0aec-4a21-863f-6f0b04e58163,06-10-2022,17:41:55,Online Payment,Retail,Stephanieberg,17,607.63,EUR,Approved,Gold,Mobile Payment
+5a6f3e9a-d3a9-4075-bca8-9025b65a2e41,18-03-2023,11:16:13,ATM Withdrawal,Retail,Brendachester,15,582.76,USD,Declined,Gold,Physical Card
+6db8482d-d2ca-43f6-bb8d-e2d2b142a2b8,20-12-2022,18:18:47,Online Payment,Restaurant,Johnsonside,13,929.89,GBP,Declined,Gold,Physical Card
+047740ef-814a-4911-9fed-bdd8ee97fd7b,30-12-2022,12:21:55,Online Payment,Restaurant,Kimberlyborough,13,316.96,GBP,Declined,Gold,Online
+ae115a77-261c-4fc9-aac6-1637f2132ea4,14-07-2023,10:40:43,Purchase,Online Services,Andersonborough,20,407.54,USD,Declined,Gold,Physical Card
+5d508e81-66e2-492f-bc89-16fbe8a0eb6c,28-06-2023,11:00:40,Online Payment,Online Services,Brooksborough,7,520.14,USD,Declined,Gold,Mobile Payment
+8e136bb6-8626-4604-8aa5-73c4f1ecd8e2,23-08-2023,19:32:30,Purchase,Online Services,East Ann,15,454.09,USD,Pending,Platinum,Physical Card
+1cc3648e-1c09-447d-a4e7-5520576ff05b,06-01-2023,10:27:39,Online Payment,Restaurant,West Jenniferbury,17,4.75,USD,Pending,Platinum,Online
+63be3bd4-aee5-44c1-8d29-9011b6f32792,30-09-2022,05:22:38,ATM Withdrawal,Online Services,New Ericville,2,804.12,GBP,Approved,Platinum,Mobile Payment
+0c5f6045-8ef9-479e-a5bd-1eb910b3c0e5,27-09-2023,13:15:35,Online Payment,Restaurant,Gillside,12,393.13,EUR,Pending,Gold,Online
+5f592b52-4b0c-4fa1-8e73-99b5737c1348,06-03-2023,22:12:10,Purchase,Restaurant,Howellborough,20,766.04,USD,Declined,Standard,Online
+41e12b7c-c702-458a-bd9a-948ac1883e50,29-09-2022,17:04:22,Purchase,Restaurant,Crystalview,6,950.89,USD,Pending,Gold,Online
+a7b878b6-9094-47d1-ae95-59ec7769be12,17-03-2023,14:39:51,Online Payment,Online Services,Williamsborough,2,877.93,USD,Pending,Gold,Mobile Payment
+e198bb9b-0688-4948-9b4e-f439f86e8e76,23-11-2022,10:07:19,Purchase,Retail,Gonzalezland,10,18.52,USD,Declined,Standard,Mobile Payment
+90998fcd-4f2b-46d6-ac00-bd0396a1df92,05-08-2023,02:58:22,ATM Withdrawal,Retail,North Shelbyview,10,234.71,GBP,Pending,Platinum,Online
+03a27ad2-64d8-495d-a0bc-3d5096f2300e,18-09-2023,16:58:21,Online Payment,Restaurant,East William,20,144.03,GBP,Approved,Gold,Mobile Payment
+b7961abe-7ee0-4dec-92d9-26b8a5725e2d,18-10-2022,17:02:38,Online Payment,Restaurant,South Brandonport,10,606.01,GBP,Approved,Standard,Mobile Payment
+fc95ce81-834a-4836-8b9d-fb7938494b7c,11-08-2023,18:41:07,ATM Withdrawal,Online Services,North Kristyland,1,716.7,GBP,Pending,Standard,Physical Card
+b0254b65-3caa-4842-baa7-0ebc1218d19c,16-03-2023,21:23:10,ATM Withdrawal,Restaurant,Jasmineshire,8,755.95,USD,Pending,Gold,Physical Card
+f53be9d0-b2f3-4c18-8ba1-8c0527030ac3,25-12-2022,02:57:12,ATM Withdrawal,Retail,West Hayley,12,210.2,GBP,Approved,Standard,Mobile Payment
+6f868e17-2f94-464f-95d6-9484cce362fa,13-03-2023,17:07:51,Purchase,Restaurant,New Brandyport,12,404.08,GBP,Declined,Platinum,Online
+65fa037b-8bb5-4de9-a9cd-26888bfd167e,10-05-2023,18:52:38,Purchase,Online Services,Frederickshire,16,333.24,EUR,Approved,Gold,Mobile Payment
+e4e1fe9a-3c8b-4bdf-9710-881b9118b351,13-06-2023,09:26:44,Online Payment,Online Services,Smithview,10,458.42,GBP,Declined,Standard,Physical Card
+6f000485-9bf1-4c38-afa0-9da692688f12,03-10-2022,08:58:20,ATM Withdrawal,Retail,Carterton,17,23.06,USD,Pending,Gold,Mobile Payment
+a7505dab-d782-48e8-9106-03bfbfe38a83,21-03-2023,03:17:37,Online Payment,Restaurant,New Teresaborough,16,982,GBP,Approved,Standard,Mobile Payment
+09f218e6-eb50-4823-a2b0-90cb8873e326,06-05-2023,23:28:51,Purchase,Restaurant,Susanstad,11,469.3,GBP,Declined,Standard,Online
+f8ed88d3-3210-4bc5-8b65-05d4439d470c,04-11-2022,00:28:46,ATM Withdrawal,Restaurant,Lake Jasonhaven,13,336.82,USD,Pending,Standard,Mobile Payment
+9245492c-801a-4107-ac72-d5f4a6ce2330,07-08-2023,19:04:52,ATM Withdrawal,Restaurant,Dianastad,15,15.07,USD,Pending,Standard,Mobile Payment
+2d92a892-52f1-4ad6-a341-47b2c067d424,20-08-2023,02:59:19,Online Payment,Restaurant,Aliceshire,8,656.62,USD,Pending,Gold,Mobile Payment
+f17a4417-88eb-46fe-b7f9-479518499431,06-09-2023,06:27:51,ATM Withdrawal,Retail,New Michaelshire,4,680.39,USD,Pending,Platinum,Physical Card
+64020106-2e44-4b28-bacf-9a07f251b442,22-12-2022,03:33:23,Online Payment,Retail,Jacquelineton,11,93.7,USD,Approved,Platinum,Mobile Payment
+5cae5dd5-9a9a-4eb4-aa7f-509aafe7c5bd,02-11-2022,12:44:10,Purchase,Retail,Gregoryland,3,371.63,USD,Approved,Gold,Physical Card
+3801aa0f-8f5b-42d0-8845-24b899818105,26-07-2023,23:17:18,Online Payment,Retail,South Crystalland,1,62.43,GBP,Pending,Standard,Mobile Payment
+04edd619-3413-4940-8aa8-91e513117e2e,30-04-2023,02:41:29,ATM Withdrawal,Restaurant,Barbaraport,1,415.2,GBP,Declined,Standard,Mobile Payment
+604eb839-de18-43c1-9eaf-d336dbeb7c79,15-02-2023,13:40:30,Online Payment,Online Services,Port Sara,14,732.55,GBP,Declined,Platinum,Mobile Payment
+1be1c6df-8d89-4d21-be03-108e6903ab66,15-05-2023,14:05:55,ATM Withdrawal,Online Services,Lake Damon,5,138.4,GBP,Declined,Standard,Online
+c620ffe9-3aec-4006-9933-f099703064dd,15-07-2023,01:32:23,ATM Withdrawal,Retail,Youngmouth,8,911.08,EUR,Approved,Platinum,Mobile Payment
+0eb84600-752d-4fc2-80d9-256e91a6e960,01-09-2023,16:14:50,Online Payment,Retail,New Cody,10,162.12,EUR,Approved,Gold,Mobile Payment
+fcd31316-3e02-48a5-8c97-89d604e256cc,07-12-2022,23:05:09,ATM Withdrawal,Restaurant,Lake Caleb,1,339.67,EUR,Pending,Platinum,Physical Card
+cda8daf6-51bc-4e10-a55e-7de9030a3c40,27-07-2023,04:02:23,Online Payment,Online Services,Port Anita,12,523.7,EUR,Declined,Gold,Online
+c2232fdb-f26b-46f0-b115-f895cbe5bd4c,23-02-2023,10:04:40,Purchase,Online Services,East Christopherstad,14,627.73,USD,Approved,Standard,Physical Card
+267d2de6-e134-4b24-ad30-e78793b4bb7d,31-07-2023,14:24:45,ATM Withdrawal,Retail,Kimburgh,7,894.49,EUR,Declined,Gold,Mobile Payment
+dc7ad968-3a6d-466d-8004-e3c676c97d75,05-04-2023,18:05:38,ATM Withdrawal,Online Services,Staceymouth,17,223.11,EUR,Approved,Gold,Online
+4ece99ea-934f-49a1-8970-a661c1007054,10-05-2023,01:44:21,Purchase,Retail,North Robert,20,957.33,USD,Pending,Platinum,Mobile Payment
+557737f3-0efe-49e1-a569-e6e2247383f2,04-11-2022,05:55:49,Online Payment,Online Services,Laurietown,20,389.86,USD,Pending,Standard,Online
+0796721a-ca43-4741-9756-24c02b42266f,13-12-2022,19:00:24,Purchase,Online Services,South Karen,5,103.44,GBP,Approved,Platinum,Physical Card
+a9e68651-7adf-4ae2-af24-a9e320376b41,26-09-2023,01:08:55,Purchase,Online Services,Lake Melissamouth,2,314.56,USD,Pending,Gold,Physical Card
+9b63651e-efca-4302-ba9f-9b98fead4931,06-07-2023,07:23:09,ATM Withdrawal,Retail,Newmanchester,13,456.56,GBP,Pending,Platinum,Physical Card
+bcdab31a-76ac-43d6-99f9-fa7b72cd8e0b,19-12-2022,19:28:00,ATM Withdrawal,Online Services,Davidborough,9,807.11,EUR,Declined,Gold,Physical Card
+1245a5e5-7167-4341-8103-4684cf01d0ff,25-11-2022,18:40:58,ATM Withdrawal,Retail,Leahview,11,762.28,EUR,Approved,Gold,Mobile Payment
+e3734522-0641-46ee-9747-75229754af4b,29-12-2022,06:02:46,Online Payment,Retail,Lake Matthewfort,17,337.36,EUR,Approved,Standard,Mobile Payment
+cae3a1e9-d259-4c28-9ec5-d38acf5f8dc3,09-07-2023,16:10:36,Online Payment,Restaurant,Judyborough,8,231.81,USD,Pending,Standard,Physical Card
+9c0cdda9-662a-4d8e-b7b4-71488f428bf0,02-01-2023,08:12:15,Online Payment,Restaurant,New Katrina,7,907,USD,Approved,Standard,Mobile Payment
+92d4c191-0cdb-4b8b-afd5-359008ad031a,28-04-2023,22:52:36,Online Payment,Restaurant,Saundersborough,16,393.77,EUR,Approved,Standard,Mobile Payment
+5abb49ef-3ad7-4c15-9054-d48ca72bac9f,18-03-2023,01:48:18,Online Payment,Online Services,South Madisonfort,1,547.86,GBP,Pending,Standard,Mobile Payment
+b23ad44b-2458-4fef-a3cb-892a8328183d,15-01-2023,17:48:40,Online Payment,Online Services,Ericfurt,13,495.99,EUR,Approved,Gold,Physical Card
+3237d479-486e-49ce-8589-aa4e53643e5a,30-03-2023,03:24:16,Online Payment,Retail,Davetown,18,326.5,USD,Approved,Standard,Online
+68d14998-1488-4e70-865c-f95f9a695402,23-10-2022,00:04:48,ATM Withdrawal,Online Services,Karenborough,1,55.11,EUR,Declined,Platinum,Online
+832c5d61-ed9b-4768-bbd6-2199ac74977f,24-03-2023,05:19:26,ATM Withdrawal,Retail,Thomaschester,12,339.42,USD,Approved,Platinum,Mobile Payment
+02849be3-50a3-4959-a55f-c12fab79234d,09-02-2023,12:28:17,Online Payment,Retail,Lake Breannaport,17,989.89,EUR,Approved,Gold,Mobile Payment
+42949c44-30fb-4dd8-8188-ec635b7e7189,29-08-2023,15:06:04,Purchase,Retail,Carrieshire,2,167.57,GBP,Pending,Gold,Physical Card
+fda9900e-b911-4b53-b7a5-c9a76aff5742,30-09-2022,05:09:42,Online Payment,Online Services,Wardbury,13,742.01,EUR,Approved,Platinum,Physical Card
+ce4a3497-e021-4560-a4a4-32358c2d2346,22-11-2022,09:10:19,ATM Withdrawal,Restaurant,North Edwardtown,16,415.75,GBP,Pending,Gold,Online
+98e01e2a-55f6-41ce-9028-bc8ccf2e747b,28-08-2023,23:16:34,Online Payment,Restaurant,Maxbury,18,330.17,EUR,Pending,Standard,Physical Card
+d98fe712-cb78-4504-bbe4-4117a5ddc3de,24-03-2023,12:00:18,ATM Withdrawal,Restaurant,Heathland,19,268.51,EUR,Declined,Platinum,Online
+1e1a900e-9b38-4a40-a458-7223c99953d9,14-06-2023,22:51:34,Online Payment,Restaurant,West Natalie,10,589.98,EUR,Declined,Standard,Mobile Payment
+643ae00d-2c1b-48f7-ac71-0c07d2d4f8cb,01-03-2023,16:53:27,Online Payment,Restaurant,Sergiobury,11,559.65,EUR,Pending,Standard,Mobile Payment
+13760df1-0a20-448f-8ce4-8daa2ca76fd2,16-04-2023,06:59:23,Online Payment,Restaurant,Edwardview,8,379.39,USD,Declined,Gold,Mobile Payment
+65f5ad05-dc5c-4645-9341-49c79d114138,18-11-2022,23:49:45,Purchase,Online Services,East Lindsay,3,687.3,GBP,Approved,Gold,Physical Card
+20c7eba3-05a4-4112-a572-873746c65ad8,12-02-2023,18:29:06,Purchase,Retail,Mclaughlintown,10,695.06,USD,Approved,Platinum,Online
+9627767e-0c59-44c8-a76e-863322e710c0,29-12-2022,08:11:15,ATM Withdrawal,Restaurant,Kevinchester,8,610.81,EUR,Declined,Platinum,Online
+c8d529b4-7dec-4051-b3be-ad179570fbd4,20-05-2023,02:23:23,ATM Withdrawal,Retail,Williamfort,6,400.62,GBP,Declined,Standard,Mobile Payment
+34bcecb1-3290-4d65-8814-c0475863cabb,28-05-2023,18:58:54,Online Payment,Restaurant,East Rickey,3,149.87,GBP,Pending,Gold,Online
+75a55167-cc67-4eca-a92e-ca584be0c401,22-09-2023,20:09:48,Online Payment,Retail,South Karen,10,535.38,USD,Approved,Standard,Physical Card
+fd037c7e-5bb3-4ab6-a5fc-519931a39a03,14-08-2023,09:26:54,Purchase,Online Services,Johnathanview,18,802.63,USD,Declined,Gold,Mobile Payment
+8428e48d-2908-41b3-b936-1707daf2d26a,30-08-2023,12:14:34,Online Payment,Retail,Lake Michael,20,449.38,USD,Pending,Standard,Physical Card
+cca7968a-0366-4487-8b3d-71cdfafd9f97,11-03-2023,15:07:58,ATM Withdrawal,Retail,New Audrey,4,573.13,GBP,Approved,Platinum,Physical Card
+ba58a996-6632-4541-b540-12239c43052f,02-01-2023,21:05:26,Purchase,Restaurant,West Nicholas,3,134.64,EUR,Pending,Platinum,Mobile Payment
+e782bb07-d99c-4874-8834-8da344fe8898,30-09-2022,17:06:02,Online Payment,Online Services,Harrisville,11,204.42,GBP,Declined,Platinum,Physical Card
+1715032f-717d-425a-aa0b-05fd742e4c02,24-05-2023,00:07:33,Online Payment,Restaurant,Kimberlyview,18,190.21,EUR,Declined,Platinum,Physical Card
+4f0fb4f3-833b-4caf-a262-4f70f0dfbeda,09-01-2023,15:37:25,Purchase,Restaurant,Lake Tiffany,4,410.42,EUR,Approved,Platinum,Online
+ddaad6f6-8899-4593-9b55-7b5a8f013eb1,17-07-2023,03:10:24,ATM Withdrawal,Online Services,East Amy,16,760.36,GBP,Pending,Gold,Online
+b6255623-2ed8-4079-bee3-2f8b1f0dfbfd,27-10-2022,04:09:00,Purchase,Retail,East Michaelland,20,285.35,USD,Approved,Gold,Online
+56b395f1-3937-48a6-baca-f7f8eba50555,07-12-2022,01:25:05,Online Payment,Online Services,Ramirezstad,11,106.93,GBP,Approved,Standard,Physical Card
+9a389f20-8080-4b1d-b350-b75a912cd17f,09-06-2023,23:45:26,Online Payment,Retail,Jeremiahberg,11,80.89,USD,Declined,Standard,Online
+09c0565c-60d5-450a-8c7c-da2eb45a5ad5,21-05-2023,13:08:46,Purchase,Retail,North Sherylburgh,19,55.29,GBP,Pending,Platinum,Physical Card
+bb1fdc1f-e34d-4877-bf50-e77bd56bb319,30-03-2023,22:39:14,ATM Withdrawal,Online Services,West Jane,4,474.47,GBP,Pending,Standard,Online
+8dff6971-91fe-40f3-b29a-f0c7eb517d2b,23-12-2022,18:37:06,Purchase,Restaurant,Brianview,10,236.66,EUR,Declined,Gold,Mobile Payment
+051d56e5-1925-49d4-ace3-d761b464cf8a,30-07-2023,10:31:40,ATM Withdrawal,Retail,Port Ryan,19,643.98,EUR,Approved,Gold,Physical Card
+ad2af0c3-9df6-4fdc-a09f-f97b392d777a,25-01-2023,09:38:31,Online Payment,Restaurant,Staciemouth,13,111.05,USD,Pending,Gold,Online
+cf731b86-7d21-4908-aedd-f5b29e33e4a1,16-06-2023,17:55:16,ATM Withdrawal,Retail,Meganchester,14,72.83,GBP,Declined,Gold,Physical Card
+a7c1e583-d296-43be-b8c0-eb2dba2e37d1,06-02-2023,01:47:45,Purchase,Retail,Farmerfurt,9,579.01,EUR,Declined,Gold,Physical Card
+a8555937-8b5e-468d-8249-283ccdeb23fb,10-03-2023,18:37:03,Purchase,Restaurant,East Annette,6,360.67,GBP,Pending,Standard,Online
+667f7e31-47a0-452d-afc0-960287292b24,06-03-2023,05:56:40,Purchase,Retail,Villarrealtown,16,77.05,EUR,Approved,Gold,Mobile Payment
+d846a506-d621-4651-b162-823e00a19fd7,22-11-2022,17:21:38,Online Payment,Restaurant,Jamesstad,8,405.97,GBP,Approved,Standard,Physical Card
+c4923a02-ef80-4d0a-84fd-887c31c36f4d,16-09-2023,12:53:27,Online Payment,Online Services,Robertsonport,10,224.24,EUR,Pending,Standard,Online
+735e5bb5-dbd5-41e1-8d96-d2966b9b6508,20-09-2023,19:14:10,ATM Withdrawal,Retail,West Jennifer,18,690.13,EUR,Approved,Standard,Online
+0f30b804-1e42-4711-ad55-3c36c3d02991,18-03-2023,08:44:08,Online Payment,Online Services,Murphyview,4,346.25,EUR,Declined,Standard,Mobile Payment
+4a8bba15-5338-49ad-9db5-80d134813a06,14-10-2022,03:43:24,ATM Withdrawal,Retail,New Tiffany,16,408.83,GBP,Declined,Gold,Physical Card
+639b0368-c302-47be-a9d7-2d7f58ec6101,13-01-2023,17:35:33,ATM Withdrawal,Retail,Riveraview,20,72.77,EUR,Declined,Gold,Mobile Payment
+3156d1c2-9249-438d-8a88-d4793d8f1aa0,21-10-2022,17:23:57,ATM Withdrawal,Retail,Whiteshire,7,276.45,GBP,Pending,Platinum,Mobile Payment
+56dafc8c-ccd0-4c84-8411-cd2d89eee310,16-07-2023,20:47:55,Purchase,Online Services,Singletonmouth,14,335.3,USD,Declined,Gold,Physical Card
+a984d5ac-8f87-4ee2-8c3d-23db61d6c39f,01-11-2022,22:41:13,Purchase,Retail,South Christopher,15,384.09,USD,Declined,Standard,Mobile Payment
+a69443cb-1bf2-46c1-91df-7925dc2bd541,07-04-2023,04:56:50,Purchase,Retail,Kennethton,14,684.53,USD,Declined,Gold,Mobile Payment
+bb1e9961-be2e-4ef2-a446-3bb6516d86db,27-09-2023,07:07:16,ATM Withdrawal,Restaurant,Brianberg,16,802.78,USD,Declined,Standard,Online
+9eeb38af-7468-4dde-897e-dbaa76575582,18-04-2023,07:34:26,ATM Withdrawal,Restaurant,Sabrinahaven,1,333.11,GBP,Pending,Platinum,Mobile Payment
+fe7a58bc-5b07-47ac-939a-a13989464c1e,01-02-2023,05:34:09,Online Payment,Online Services,Petersonshire,7,729.87,GBP,Declined,Gold,Online
+fcb1ba0b-ed75-40db-be01-8a7552e302b5,11-06-2023,15:18:09,ATM Withdrawal,Retail,West Cynthiabury,14,214.85,GBP,Approved,Gold,Physical Card
+fdd6992f-81da-4f69-8e97-3d42de37abc8,06-02-2023,10:11:27,ATM Withdrawal,Retail,Brittanystad,2,754.16,EUR,Declined,Gold,Online
+c1650d4d-6403-4a8d-9b8b-4cb7d887e867,08-01-2023,04:14:19,Purchase,Online Services,Michaelstad,6,260.9,USD,Declined,Platinum,Mobile Payment
+fb323deb-d850-4207-a1ba-7b43671be21d,24-06-2023,13:02:59,Online Payment,Retail,New Sylviahaven,13,324.13,USD,Pending,Platinum,Physical Card
+12adb2f2-de0b-4e82-8c27-6fec324d8f4a,15-12-2022,18:00:06,Purchase,Retail,East Jessicafort,16,7.06,GBP,Pending,Gold,Mobile Payment
+b90b870f-fc61-41d1-a377-d2f76c99954a,22-05-2023,23:24:21,Online Payment,Retail,South Lisa,10,326.54,GBP,Approved,Platinum,Mobile Payment
+2b05ce20-b59b-40ae-8cf7-369b6e8b3a85,17-08-2023,05:11:50,ATM Withdrawal,Retail,Mollyfort,16,936.06,GBP,Declined,Gold,Mobile Payment
+a55e7620-28d4-40b7-9cf9-e82af1f29d71,14-09-2023,06:16:09,Purchase,Restaurant,Georgeside,9,813.64,GBP,Approved,Gold,Online
+84d868fe-e4d6-4388-bf2e-09aaf90910ee,11-05-2023,00:21:07,Purchase,Retail,Gabriellechester,18,470.51,USD,Approved,Platinum,Physical Card
+f8c94c52-a039-4afc-b90f-a7baad49f74f,14-02-2023,19:08:02,ATM Withdrawal,Restaurant,Amandahaven,11,620.47,USD,Approved,Standard,Physical Card
+e00f60b6-2d19-4fc0-b568-09a1b7dafa01,29-09-2023,08:50:32,Online Payment,Restaurant,Lake Daniel,16,244.59,USD,Pending,Platinum,Mobile Payment
+41ce1f77-a378-4b6e-8e5f-d4ecc015ec58,30-04-2023,05:31:06,Online Payment,Online Services,Lisastad,9,395.22,EUR,Pending,Gold,Online
+6efc9dc7-c634-42cf-87a0-7f05eada5459,29-09-2023,06:29:56,Online Payment,Restaurant,Edwardland,14,91.77,GBP,Approved,Platinum,Physical Card
+1b4ac139-a68a-4cf2-b20d-0bc315376ad7,30-09-2022,12:23:48,Purchase,Restaurant,Gregoryborough,1,408.21,GBP,Declined,Platinum,Physical Card
+68da1674-e158-481e-a893-ae8585a95c73,25-06-2023,10:42:20,ATM Withdrawal,Online Services,East Douglas,4,69.8,GBP,Pending,Gold,Online
+60e5e2cd-b1f5-4b54-9ac5-e75f5db3a6b5,01-02-2023,07:38:18,ATM Withdrawal,Retail,Kristinaton,8,822.25,GBP,Pending,Gold,Mobile Payment
+09d64b7c-5701-45a6-80fe-c91a0be078ec,05-08-2023,14:54:51,Online Payment,Retail,Drakeland,8,543.09,USD,Pending,Gold,Physical Card
+56d31875-6b99-4ae3-9bdb-90737317414e,14-01-2023,17:46:26,Online Payment,Restaurant,South Dylanland,10,169.27,EUR,Declined,Gold,Physical Card
+85f2eef9-3588-40a0-b01f-4b12ce2373a8,09-10-2022,18:02:51,Online Payment,Retail,Danielview,18,622.69,EUR,Approved,Platinum,Mobile Payment
+86b4fe9f-efb5-4f14-8f6f-b505aef6027a,07-01-2023,12:09:39,Purchase,Retail,North Austin,7,543.75,USD,Pending,Standard,Mobile Payment
+756cf966-1e27-45c1-9b76-8389fbd01414,05-05-2023,03:29:12,Purchase,Online Services,Laurenchester,9,638.62,GBP,Pending,Standard,Physical Card
+85c1cbf1-3400-4b24-ba2f-2dacec389fa5,01-02-2023,08:34:02,Online Payment,Online Services,Lake Erinchester,2,836.96,USD,Approved,Standard,Mobile Payment
+1b92a4b9-90cb-4e88-a695-1e10a62b6f6b,03-07-2023,23:51:35,Purchase,Online Services,Port David,20,887.89,USD,Pending,Platinum,Physical Card
+b0fa78f5-3d37-40cc-9fbe-e8f8c34fad9f,17-07-2023,00:28:43,Purchase,Retail,Joshuachester,9,385.08,EUR,Approved,Gold,Mobile Payment
+918214cf-8a60-4a17-aafa-bacb6581b986,16-02-2023,04:14:29,Purchase,Retail,Reedchester,19,908.52,GBP,Pending,Standard,Physical Card
+fc756fc2-5fb1-4c26-903f-c353c9926614,25-05-2023,05:01:30,Online Payment,Online Services,Davismouth,13,589.72,GBP,Pending,Gold,Mobile Payment
+fe405970-5d8d-4821-86b0-49b0b4d6e851,02-01-2023,23:54:36,Online Payment,Retail,Fieldsmouth,17,770.94,EUR,Pending,Gold,Mobile Payment
+fe88d23a-6cb7-4b00-ba98-7db589412c67,08-10-2022,19:26:34,Purchase,Restaurant,West Christianstad,18,63.56,EUR,Approved,Platinum,Mobile Payment
+09ca39a9-5169-4588-807e-1dfa3592c89f,11-11-2022,11:14:02,Purchase,Online Services,South Timothy,14,462.77,EUR,Declined,Standard,Mobile Payment
+b15a70ea-f1bb-4626-b887-7159b609a197,12-08-2023,06:24:16,ATM Withdrawal,Retail,Jenniferville,15,581.26,GBP,Pending,Standard,Mobile Payment
+7cf2cf1b-7f2e-480f-90e6-5c960b42151e,25-04-2023,05:59:37,Online Payment,Retail,East Deborahside,19,610.87,EUR,Approved,Gold,Physical Card
+abdf57e8-c330-4d10-b6a7-353a75637930,17-04-2023,09:27:27,Online Payment,Online Services,Lake Marialand,20,165.04,GBP,Pending,Gold,Physical Card
+af460367-9461-4f21-8422-4a18bdf2b949,01-08-2023,01:21:17,ATM Withdrawal,Retail,Mckinneyburgh,7,402.67,USD,Pending,Gold,Online
+0905ab02-b966-4c19-8604-99a82cbce8b8,12-06-2023,02:45:45,ATM Withdrawal,Restaurant,Amyton,3,83.37,EUR,Pending,Platinum,Physical Card
+ab26d859-ee9a-43a5-bf39-790381fc45ac,14-04-2023,11:13:11,Purchase,Retail,Veronicafort,11,557.49,EUR,Pending,Platinum,Physical Card
+b1bf7074-2217-4529-becb-d7599bf3afef,02-11-2022,20:48:10,ATM Withdrawal,Restaurant,Valeriechester,2,700.61,EUR,Declined,Gold,Mobile Payment
+fe4d9a72-01c2-48ea-969c-86b4d2d406f7,02-05-2023,21:33:53,ATM Withdrawal,Restaurant,Virginiachester,10,276.79,EUR,Declined,Gold,Physical Card
+47608d9e-3055-45aa-ad89-57d4cfb3ce7a,15-07-2023,07:48:14,ATM Withdrawal,Retail,Lake Dustin,2,42.69,USD,Declined,Gold,Online
+f59fa0cd-2cf5-4419-91dd-8170196498aa,12-09-2023,05:40:03,Online Payment,Online Services,Collinstown,5,165.73,GBP,Declined,Standard,Mobile Payment
+1e6217f9-e02d-4d4f-a6f9-875e3c0bcc87,13-12-2022,21:12:31,ATM Withdrawal,Restaurant,Linbury,2,953.03,USD,Pending,Gold,Mobile Payment
+33f7dd4f-fd7e-4acf-b26d-c32cdb95cdc7,23-03-2023,12:50:40,Online Payment,Online Services,New Ryan,7,592.57,USD,Pending,Gold,Physical Card
+f9f0cc6b-f1ac-458c-9388-db8c9f5f7c7c,27-09-2023,15:11:41,Purchase,Online Services,North Patrickside,20,843.9,EUR,Declined,Standard,Physical Card
+bf26e3d1-5b1f-41d1-bf20-5a7367ed6a17,27-09-2023,22:57:17,Purchase,Online Services,North Christophermouth,14,859.5,EUR,Pending,Platinum,Online
+af5c3cfe-3283-4ca7-a2d2-6758416ecae1,23-10-2022,22:40:53,ATM Withdrawal,Retail,Port Valerie,18,621.59,GBP,Declined,Standard,Online
+9202f9d4-1678-4333-a5cb-5c55cc9e95e6,26-08-2023,14:44:52,Online Payment,Retail,Monicafort,3,170.73,USD,Pending,Gold,Online
+d1d1f274-0c0e-424f-8564-37b4c2fccda2,29-09-2023,19:07:55,ATM Withdrawal,Retail,Port Jamesbury,13,298.64,GBP,Pending,Standard,Mobile Payment
+394d97ac-7884-4845-8928-379dcf27a321,09-12-2022,14:19:41,Purchase,Restaurant,Ruizview,9,551.6,USD,Approved,Platinum,Physical Card
+9579511d-717d-409a-a523-c8ba36abab67,12-03-2023,07:12:55,ATM Withdrawal,Retail,New Brian,4,635.1,EUR,Pending,Gold,Physical Card
+ea1946b7-e811-4734-af3d-b035e4555a57,21-10-2022,20:18:45,ATM Withdrawal,Online Services,Port Brentside,18,110.34,GBP,Declined,Platinum,Mobile Payment
+f9bdc104-ac0a-472b-b5bd-3c16cfa1a757,02-05-2023,05:26:13,Purchase,Retail,New Stephenmouth,18,184.16,EUR,Pending,Platinum,Physical Card
+d7e18489-a663-4655-bf2a-9312ca994196,29-11-2022,11:14:24,ATM Withdrawal,Online Services,Lynnfurt,8,287.69,GBP,Pending,Gold,Mobile Payment
+0a8376d4-afa5-478a-a141-c7de74801e8e,18-01-2023,21:56:10,ATM Withdrawal,Restaurant,Ochoaborough,7,404.34,USD,Declined,Standard,Online
+41397781-a7d6-43bd-b01f-bf82293b1a69,20-03-2023,01:04:47,Online Payment,Retail,Lake Grantberg,12,548.12,USD,Approved,Platinum,Mobile Payment
+e9bac535-ea06-44ff-b4ab-0a6cdad12b50,12-07-2023,23:06:00,Online Payment,Restaurant,West Sean,2,109.97,GBP,Declined,Gold,Online
+07ee5c89-bbc4-432a-860f-886909fcc891,17-06-2023,15:28:08,Purchase,Restaurant,Justinstad,14,370.23,EUR,Pending,Gold,Physical Card
+cf530772-579a-42ef-8f9a-87ae11012519,12-09-2023,04:02:13,Purchase,Restaurant,Lake Jodi,11,458,USD,Declined,Standard,Physical Card
+26c0aa2e-600f-4829-bda9-d1efa7a3053d,12-02-2023,20:01:42,Purchase,Retail,Theresastad,4,816.75,USD,Declined,Platinum,Online
+df524254-0bd8-4ce3-9fc2-c89f331d0f36,22-07-2023,16:15:25,Purchase,Retail,Debbiehaven,17,81.51,USD,Approved,Standard,Mobile Payment
+a8cbb2e2-aa31-459c-b74d-bb63ae069569,08-10-2022,01:04:10,ATM Withdrawal,Online Services,East Evan,16,67.3,GBP,Pending,Platinum,Online
+9e9ec839-090b-4fc7-8be1-ab6e8ec232e9,26-07-2023,06:06:02,Online Payment,Retail,East Scottmouth,11,621.63,USD,Approved,Standard,Physical Card
+1ca3887f-4ff4-4015-a563-a110c93e910e,22-02-2023,22:44:55,ATM Withdrawal,Online Services,Martinezmouth,15,81.2,GBP,Declined,Standard,Online
+4dada8e0-b7ef-4bec-a910-1aceba31fe77,12-07-2023,02:20:41,Online Payment,Restaurant,Prattburgh,10,157.27,EUR,Approved,Platinum,Physical Card
+47310bdf-0f79-480b-b4ec-fe76a2e9a998,01-02-2023,21:23:06,Purchase,Retail,Port Tammy,14,496.6,GBP,Pending,Platinum,Online
+0ab67ca1-1f3e-4d0d-8800-d974270ad5ee,16-08-2023,22:44:40,Purchase,Restaurant,Wrightfort,12,309.47,GBP,Declined,Platinum,Mobile Payment
+e86ab72d-db56-43d8-98e5-b340b4e03a85,27-07-2023,05:30:17,Online Payment,Online Services,Contrerasland,3,645.48,GBP,Declined,Gold,Mobile Payment
+38f00f5a-47fe-49df-ba1e-ef0a611a56b3,27-07-2023,16:49:38,Purchase,Retail,Taylorchester,6,428.87,EUR,Declined,Standard,Mobile Payment
+9e28860c-074e-42c6-b921-53f173158247,27-01-2023,23:13:39,Purchase,Restaurant,Holmesstad,20,428.47,USD,Declined,Standard,Online
+924f39b9-575e-48f5-8df2-9f9c39202b09,24-07-2023,02:04:08,Purchase,Retail,Jonesshire,10,814.33,USD,Pending,Platinum,Mobile Payment
+676389e8-1e3b-4c2d-a4a4-ec9e98100ad8,20-10-2022,22:11:33,ATM Withdrawal,Online Services,South Randallburgh,12,602.65,GBP,Approved,Standard,Physical Card
+643d96c4-5faf-4373-9ea9-e411812cc016,02-06-2023,22:20:14,ATM Withdrawal,Retail,Lewiston,16,983.87,USD,Declined,Gold,Online
+64706342-b451-4e6b-907b-1213ba7e2514,04-02-2023,04:58:52,Online Payment,Retail,Michaelafort,13,689.41,GBP,Declined,Platinum,Physical Card
+7f368175-b1b4-4a6b-ba3f-b0d9594c1bda,11-05-2023,21:54:34,Online Payment,Online Services,Lake Michellestad,1,954.67,USD,Declined,Platinum,Physical Card
+031364cb-f8b4-4f67-b819-087038327478,02-03-2023,09:39:58,Online Payment,Restaurant,Nicholasmouth,10,263.77,GBP,Pending,Platinum,Physical Card
+4c490c40-4942-4824-ae60-d4b8d1ffdf78,04-01-2023,06:11:24,Purchase,Online Services,West Patrick,12,317.68,GBP,Declined,Standard,Online
+47ded03d-6a7b-4302-9b34-1089f3e29872,25-12-2022,01:36:47,Online Payment,Retail,Stevenberg,6,872.74,GBP,Declined,Gold,Online
+4e48a8bf-4f9f-4b19-b5a8-030dd75f2dbf,26-04-2023,06:33:28,ATM Withdrawal,Restaurant,Brianhaven,4,205.53,EUR,Approved,Platinum,Online
+18bc7292-86bf-420d-b9f7-0ec5803a85a1,16-04-2023,09:02:37,Purchase,Online Services,Gordonhaven,19,239.41,USD,Declined,Gold,Mobile Payment
+e348622d-ea03-4a7f-973b-f18a3ce97e0b,11-07-2023,07:43:25,Online Payment,Online Services,East Monicashire,15,778.12,EUR,Declined,Gold,Online
+7ad8cd1a-91b8-4a7c-96b8-d66fcee8f196,12-06-2023,00:04:37,Online Payment,Online Services,Anthonyfort,2,572.42,EUR,Approved,Gold,Physical Card
+80f9ef97-5a68-4555-b6e7-8a6eae4cba24,19-09-2023,08:59:31,ATM Withdrawal,Retail,Jenniferville,15,263.65,EUR,Declined,Platinum,Mobile Payment
+cd7d1d69-6999-4fcf-830e-ec86201fcf54,29-04-2023,17:42:29,ATM Withdrawal,Restaurant,Lake Theresa,8,580.49,GBP,Pending,Standard,Mobile Payment
+684821b1-3fb1-4872-9ec8-c2299c005ef1,20-12-2022,00:49:55,Online Payment,Restaurant,East Miguelborough,10,536.57,GBP,Approved,Gold,Physical Card
+d5c59747-20dc-4278-9c75-30fa42c825db,03-12-2022,03:21:42,ATM Withdrawal,Retail,Williamsberg,1,99.09,USD,Pending,Platinum,Online
+b04704c9-856a-4173-89eb-ffb828df83d1,15-03-2023,22:39:20,Online Payment,Restaurant,New Tinamouth,16,400.68,USD,Approved,Gold,Physical Card
+01cad28e-87d9-459e-85d9-03ec445efe1e,12-11-2022,20:40:00,ATM Withdrawal,Retail,Sarahside,3,677.52,EUR,Pending,Platinum,Online
+00bb4f0b-3fd6-44b5-b891-c25662fc8fa1,09-03-2023,23:34:46,ATM Withdrawal,Restaurant,North Jacqueline,8,844.58,USD,Pending,Platinum,Online
+f72656ed-eb43-465f-87f5-05db0f3caf94,26-12-2022,07:08:45,ATM Withdrawal,Online Services,Riveraview,5,72.67,USD,Declined,Standard,Mobile Payment
+705b3088-97e2-43fb-912b-825849f0e144,23-07-2023,01:35:14,ATM Withdrawal,Restaurant,New Bradleyborough,8,62.72,GBP,Declined,Standard,Physical Card
+6cf15d8d-69a0-4072-8cf5-55bfc8c547f3,14-11-2022,22:50:02,Online Payment,Retail,Sandrachester,17,487.56,EUR,Approved,Platinum,Physical Card
+62cfe312-8283-425d-b9bf-f27a13a86600,12-05-2023,20:41:12,ATM Withdrawal,Online Services,West Jonathan,6,296.66,GBP,Pending,Gold,Physical Card
+7b67f5d3-fb2b-4ae6-875f-b06e6f594eec,21-05-2023,16:35:12,Purchase,Online Services,East Donald,20,95.93,USD,Pending,Standard,Mobile Payment
+4aa348ef-2f65-4a83-9af0-e133ce47db65,22-09-2023,22:24:27,ATM Withdrawal,Restaurant,Angelaburgh,8,141.27,GBP,Approved,Gold,Physical Card
+aeede35d-a1fa-4886-ad26-f0cc9a70b88a,22-11-2022,12:52:20,Online Payment,Restaurant,Martinhaven,18,166.5,GBP,Approved,Gold,Mobile Payment
+9b23acd0-352f-453d-a077-2798950d63ee,07-04-2023,18:25:53,Purchase,Retail,West Laura,3,851.12,GBP,Pending,Gold,Online
+f376a1c1-66ac-4512-886b-fd6404110e5b,03-11-2022,00:27:32,Online Payment,Online Services,South Christian,1,28.35,EUR,Pending,Platinum,Mobile Payment
+c1aee582-b5ce-4fb9-b21d-97cd6daef803,07-03-2023,07:51:24,Online Payment,Retail,Port Tanyaland,14,283.14,USD,Pending,Platinum,Online
+9d460afd-51dd-407a-895a-90eb663b3890,15-04-2023,11:45:19,Online Payment,Restaurant,Daniellechester,18,621.26,USD,Declined,Platinum,Mobile Payment
+4854ba93-c692-465e-84e5-ff90139de175,06-09-2023,20:38:16,ATM Withdrawal,Retail,Robinsonton,13,722.33,GBP,Declined,Platinum,Online
+80ab45ba-252e-4d53-a20d-39db74bd70f9,26-12-2022,08:42:59,Online Payment,Restaurant,Jacobsview,18,937.24,USD,Declined,Standard,Physical Card
+8c890e0a-bbc9-4122-a7a9-1eeec4c38fa9,28-02-2023,20:03:41,Purchase,Restaurant,Port Wayneville,13,460.57,USD,Pending,Gold,Physical Card
+19c5cc26-fb23-4ada-b371-b15755314ad9,09-12-2022,04:40:52,Online Payment,Retail,Taylorbury,16,796.71,EUR,Approved,Standard,Physical Card
+c1d5cd6d-7045-40f0-9f10-697d68ba01c8,19-04-2023,05:46:07,ATM Withdrawal,Restaurant,Meadowshaven,4,714.07,EUR,Pending,Gold,Mobile Payment
+18f56b9b-02f6-4f03-a235-71bac9a19097,30-09-2022,15:41:34,Purchase,Online Services,East Lisaview,19,813.23,GBP,Pending,Platinum,Physical Card
+104cf642-3947-4240-a403-2b096aaaa804,24-04-2023,08:57:25,ATM Withdrawal,Online Services,Williamville,1,486.1,GBP,Declined,Platinum,Physical Card
+65eaf388-bfc6-4c83-830c-2cace2b418ae,07-10-2022,07:26:08,ATM Withdrawal,Restaurant,Olsonhaven,10,359.68,EUR,Approved,Standard,Online
+88d0123d-22c3-4582-8159-015802e01fa1,20-04-2023,10:50:04,Purchase,Restaurant,New Robert,17,301.38,EUR,Approved,Standard,Physical Card
+6c5d1536-a5a8-49ac-b45e-ccc4f98eea9d,12-12-2022,07:44:35,Purchase,Restaurant,Jessicaton,10,524.89,EUR,Declined,Platinum,Online
+95a16da9-4cdd-4464-a15a-21484ba58f21,11-12-2022,18:49:53,ATM Withdrawal,Online Services,North Melinda,1,978.49,USD,Declined,Platinum,Physical Card
+6967b5d4-9a93-43e7-b3a4-0b9e469a67f2,27-08-2023,00:54:42,Purchase,Retail,Port Sharon,16,221.95,EUR,Approved,Standard,Mobile Payment
+c8e40763-58e9-4d64-9988-432fc1af7b24,21-10-2022,14:17:12,Purchase,Restaurant,North Kaitlyn,6,780.92,EUR,Declined,Platinum,Mobile Payment
+c5c23a3e-bc99-4abd-b50b-f0205c8f7b5a,13-10-2022,23:40:29,ATM Withdrawal,Online Services,East Amandabury,12,433.1,USD,Declined,Platinum,Physical Card
+26ed26ff-b902-4484-8985-caded3202381,19-03-2023,01:58:20,Online Payment,Restaurant,East David,3,560,USD,Approved,Platinum,Physical Card
+9b0cc5f4-f0a5-4127-91b2-4a125b1aa44c,04-12-2022,01:56:13,Online Payment,Restaurant,New Patrick,6,470.76,USD,Pending,Platinum,Online
+e166575d-6bc4-419f-ab63-556e14689e9c,19-12-2022,17:05:56,Online Payment,Retail,Elizabethchester,3,553.24,GBP,Pending,Gold,Online
+532a456d-58e7-4ff2-83fa-2f9c1a2204af,13-10-2022,21:00:44,Online Payment,Online Services,Perezfurt,2,824.41,USD,Approved,Standard,Physical Card
+81903e4c-653a-48bd-9a27-548c89500e6f,07-03-2023,08:22:16,ATM Withdrawal,Online Services,Kirstentown,12,231.05,EUR,Pending,Platinum,Physical Card
+f0afcbe3-437a-4e37-b87d-f3f61d82a757,18-11-2022,02:30:56,Online Payment,Retail,Josebury,7,520.22,EUR,Pending,Gold,Online
+e58bf18e-6cf4-4405-b926-033f08f3bdda,04-07-2023,12:26:13,Purchase,Retail,Lake Ronald,9,2.47,EUR,Approved,Gold,Physical Card
+1717ec1a-4308-4073-bc62-8c5bfdba0ae5,29-09-2022,06:05:39,ATM Withdrawal,Restaurant,Lake Sabrina,4,801.05,EUR,Approved,Standard,Mobile Payment
+5005481d-1769-4fc9-b814-12e7dfdd537c,25-12-2022,06:30:32,ATM Withdrawal,Restaurant,North Juanmouth,15,408.21,EUR,Declined,Gold,Physical Card
+2a357d63-844f-44cb-ab13-d41b69e04bf9,09-08-2023,05:11:41,Purchase,Retail,Port Johnville,10,947.48,EUR,Declined,Platinum,Online
+5b80bf4e-340a-4515-b5a7-2032d4448d5d,29-09-2022,07:31:31,Purchase,Retail,Duartefort,20,568.77,USD,Declined,Gold,Physical Card
+7b29357d-d2e9-4729-9ea7-c943a1a6d624,22-06-2023,19:26:00,Online Payment,Retail,Edwardview,13,646.54,GBP,Declined,Gold,Online
+bad9cd7e-1c1b-4ca8-b65c-6760ad789418,27-01-2023,23:01:56,Online Payment,Restaurant,Simpsonport,9,338.18,EUR,Approved,Platinum,Online
+cd7cfeaa-2cd6-48f1-ab07-f9cace070d81,26-08-2023,01:18:34,Purchase,Retail,Thomasbury,8,983.06,GBP,Declined,Platinum,Physical Card
+92969e42-5616-495e-8577-3416f7b7aae2,23-07-2023,19:51:20,ATM Withdrawal,Retail,Josephberg,5,106.75,USD,Declined,Platinum,Online
+9c62cbd9-bff2-4c77-9d4b-f05179a0a8d0,01-07-2023,03:50:24,ATM Withdrawal,Retail,East Roy,18,787.96,USD,Declined,Standard,Online
+99b37247-d997-4ccb-abfa-cd54024463f9,19-04-2023,04:40:39,ATM Withdrawal,Restaurant,Port Cameronside,19,123.46,EUR,Declined,Gold,Physical Card
+677d2d59-b06f-4976-a2b2-e5e79a942eb7,01-12-2022,01:42:25,Online Payment,Retail,Craigberg,14,78.24,USD,Declined,Gold,Mobile Payment
+f338bd2f-fe89-4deb-9d66-7dbf96caa4e5,04-05-2023,16:20:20,ATM Withdrawal,Online Services,West Danielburgh,4,528.56,EUR,Declined,Gold,Online
+c14260c3-fbee-4500-b69e-49202ce8f649,25-10-2022,16:15:40,Online Payment,Restaurant,New Stacymouth,17,341.94,GBP,Approved,Platinum,Mobile Payment
+3edf94fa-6a85-49f8-9266-6a3a1418ad9a,31-05-2023,13:29:57,Online Payment,Restaurant,West Crystal,10,528.98,USD,Pending,Platinum,Physical Card
+282cd64d-e789-439d-9b12-deab79eb03fd,04-09-2023,01:14:54,Online Payment,Online Services,Baileymouth,14,75.97,EUR,Approved,Standard,Online
+492c3f82-6ccb-40fc-b63d-e8f014914ab3,14-09-2023,18:11:33,ATM Withdrawal,Retail,Port Johnny,2,51.64,EUR,Pending,Platinum,Online
+bd36b03b-99fb-4615-85f3-6ecc22329233,21-12-2022,18:15:49,ATM Withdrawal,Retail,Mcguirestad,20,462.79,USD,Approved,Platinum,Mobile Payment
+f27fc2cb-8566-4396-96cb-a7747caad7c4,24-12-2022,11:16:04,ATM Withdrawal,Restaurant,New Kevinchester,12,892.33,USD,Approved,Platinum,Physical Card
+7129011a-28c4-4d4c-a219-9c1f2191c2ab,13-05-2023,21:51:34,Purchase,Online Services,Lake Briana,20,302.74,GBP,Pending,Standard,Mobile Payment
+c900bb4c-ec98-4a0b-aa09-dd15571c6b43,06-01-2023,21:11:26,ATM Withdrawal,Restaurant,Port Jason,10,810.96,USD,Pending,Standard,Mobile Payment
+80a9dc2e-6eac-4165-a989-3d06068b6af4,02-11-2022,19:28:06,Purchase,Retail,Tammytown,17,621.48,GBP,Pending,Gold,Online
+57f700c9-fd1b-4f9c-947a-86014044c953,04-02-2023,15:08:20,Online Payment,Retail,Tinahaven,14,994.43,GBP,Pending,Platinum,Online
+ed179077-23df-4e55-8077-642b140212f1,10-10-2022,09:34:24,ATM Withdrawal,Online Services,West Lisa,6,783.32,USD,Pending,Standard,Physical Card
+5fa0d3b7-c033-4971-ab51-34bd68828a49,19-02-2023,00:05:55,Purchase,Retail,Keithton,5,932.1,USD,Declined,Standard,Online
+997ee33a-b4ec-419e-813e-a0f145562ba3,24-12-2022,23:19:47,Online Payment,Retail,Rogersland,11,441.27,EUR,Declined,Standard,Physical Card
+4207e4da-ea9c-4aa8-bfeb-39dfe6397ad6,25-08-2023,16:35:44,Online Payment,Restaurant,Rileystad,20,663.69,USD,Approved,Platinum,Online
+fca754e8-65e4-4b07-bfc7-957d6264eae7,21-12-2022,06:35:30,Purchase,Retail,Tatefurt,16,707.12,GBP,Declined,Standard,Online
+a0177a52-7290-40b6-bde4-185615e4cee7,21-05-2023,08:12:01,Purchase,Restaurant,Francoland,18,837.99,GBP,Approved,Standard,Physical Card
+f73019ee-6018-4adb-82e2-52a64926a47d,18-03-2023,11:50:09,Online Payment,Restaurant,Juliemouth,19,91.15,GBP,Approved,Gold,Physical Card
+b7ec3fcb-5492-4fd9-acc9-2cc9df67b279,09-07-2023,01:51:05,Purchase,Retail,West Jonathan,6,724.91,USD,Declined,Platinum,Physical Card
+b3df5065-acbc-4d77-8367-5df725dcb0c1,11-02-2023,14:51:12,ATM Withdrawal,Online Services,South Denise,7,750.27,USD,Approved,Platinum,Online
+b0e0b7f8-0048-4081-a950-b44a15370ed9,20-11-2022,05:37:01,ATM Withdrawal,Retail,Blaketown,14,956.16,EUR,Declined,Platinum,Physical Card
+1733675a-2ac8-4e56-a7fa-40ad338aee4d,21-01-2023,02:23:56,Purchase,Restaurant,East Jodimouth,8,699.34,EUR,Declined,Standard,Online
+f0902e49-af5a-4b1f-82dd-7ab3b62447f2,02-08-2023,01:13:21,ATM Withdrawal,Retail,East Jennifer,13,150.21,EUR,Approved,Standard,Mobile Payment
+a1773ec2-9a65-4644-bdf7-34bc12432e11,08-07-2023,18:19:43,Online Payment,Online Services,Reginaview,13,876.1,EUR,Approved,Platinum,Mobile Payment
+51f0eb1d-1f5d-4f05-b4a6-deda35ed4fe8,30-03-2023,05:18:55,Purchase,Restaurant,Davefort,20,811.36,EUR,Approved,Platinum,Physical Card
+8967ae47-70b2-4d3e-9d29-e4cd415cc134,07-08-2023,07:34:45,Purchase,Retail,Lisabury,18,792.7,EUR,Pending,Standard,Mobile Payment
+96794eae-83ca-4fbc-919f-07f9f4663c4c,30-07-2023,02:41:19,Online Payment,Retail,Jesseside,8,541.03,USD,Approved,Gold,Online
+311b25e4-139c-4b2a-a4cd-075f5fe4e1a5,25-08-2023,16:22:47,Purchase,Retail,New Toddton,13,163.46,GBP,Approved,Standard,Mobile Payment
+42172e49-15a6-41b5-bbcb-9d9629647502,04-11-2022,22:45:18,Online Payment,Online Services,Port Eric,10,153.39,EUR,Pending,Standard,Online
+55105bd2-15ea-4d93-91fd-16c9e6ff4d19,13-07-2023,21:45:31,Purchase,Restaurant,Klineton,5,563.96,EUR,Approved,Platinum,Physical Card
+06be3838-cc19-4d89-a256-d7058f0c74dd,23-03-2023,18:06:49,Purchase,Online Services,Port Spencermouth,19,161.83,GBP,Approved,Standard,Online
+55962fe5-a267-4f67-b0dc-cb2168b8ddc9,05-04-2023,08:55:52,Purchase,Retail,Sueshire,6,647.04,GBP,Declined,Gold,Mobile Payment
+0ef3bc01-1f8a-47a2-86a7-dfd3512e864c,11-03-2023,11:19:41,Purchase,Online Services,Robertbury,18,974.87,USD,Approved,Gold,Online
+2f6f46ec-6611-45ad-837c-4b338c48d38e,19-02-2023,21:44:47,ATM Withdrawal,Retail,Elizabethton,17,707.2,GBP,Declined,Platinum,Online
+9a9436dc-4cff-42ab-8b13-e8e774e358f1,21-08-2023,10:03:41,Online Payment,Online Services,Lindsayland,3,855.25,EUR,Declined,Gold,Mobile Payment
+af33dc98-d56d-4d12-bfa6-95485bec8e37,11-05-2023,12:52:20,Online Payment,Retail,Martinezport,18,463.75,USD,Pending,Gold,Mobile Payment
+5c84fdbd-7ed0-4176-b0f7-d49b812ff68e,19-10-2022,14:29:47,Online Payment,Retail,Newmanland,8,146.07,GBP,Pending,Platinum,Physical Card
+76b570c7-498c-47a1-a2ed-865db992b157,08-09-2023,17:28:43,Purchase,Online Services,Boyerstad,9,429.22,GBP,Pending,Gold,Online
+ce32b152-3e22-4452-a84b-0ab95534f8d8,01-01-2023,08:20:46,Purchase,Online Services,North Cherylfurt,6,153.73,GBP,Pending,Gold,Physical Card
+ec69a843-ba48-4bef-ab56-3a1649160683,18-09-2023,09:19:30,Online Payment,Retail,Russellchester,5,941.05,USD,Approved,Platinum,Online
+2caa86a8-7b74-45a9-a7b9-6838402417e7,26-04-2023,03:28:25,Purchase,Restaurant,Ericfort,12,535.92,USD,Declined,Standard,Mobile Payment
+acc48b19-f592-40e2-8f4a-5687b095b9d7,13-04-2023,20:24:21,Purchase,Online Services,Kathleentown,18,886.25,GBP,Approved,Gold,Physical Card
+d2d5c511-c3f7-4719-aa43-5ba9c6f76cde,12-08-2023,02:50:09,Purchase,Online Services,Sullivantown,6,955.16,GBP,Pending,Gold,Physical Card
+39ecd3b9-fa24-45a9-b7a3-aa3f436f48ec,17-11-2022,02:28:29,Online Payment,Retail,Kristenhaven,19,654.31,GBP,Declined,Standard,Online
+2efe31fc-fe9a-4166-ad04-27dabacadf37,07-10-2022,13:20:58,Purchase,Retail,Lake Dustinside,14,627.68,GBP,Declined,Gold,Mobile Payment
+6bd05b5b-89ee-4517-b752-96fa0e210f77,27-11-2022,13:35:45,ATM Withdrawal,Online Services,Craigfort,9,396.38,GBP,Pending,Standard,Physical Card
+a7f737c7-834a-4cc7-9e55-857b0af92099,05-05-2023,00:15:33,Purchase,Retail,Robertbury,8,935.23,EUR,Approved,Platinum,Mobile Payment
+88f58742-65a7-4fee-842f-0f0d931afbfd,06-01-2023,23:16:09,Online Payment,Online Services,Tylerchester,14,503.24,USD,Declined,Gold,Physical Card
+6399672f-4c64-490a-9b0d-14ae4b5c33ff,06-03-2023,23:48:15,Purchase,Restaurant,Lake Lori,8,376.51,EUR,Approved,Gold,Physical Card
+7281e083-93c1-476e-82e2-c9f6c4958deb,16-01-2023,02:10:52,Purchase,Retail,Grahamstad,4,498.52,USD,Pending,Standard,Mobile Payment
+fc09917a-fd8b-475a-91b6-3f116778e847,12-05-2023,01:36:48,ATM Withdrawal,Online Services,Thomaschester,17,196.6,GBP,Declined,Platinum,Physical Card
+83fd5bf4-3243-440b-ae87-00a49b4f4e3b,20-03-2023,10:50:58,Online Payment,Restaurant,North Joyce,10,459.97,GBP,Pending,Gold,Mobile Payment
+764b95d3-8b7a-4502-a21c-f850d91df0bc,28-04-2023,12:48:13,ATM Withdrawal,Retail,Mccannfort,4,815.77,USD,Declined,Standard,Online
+21b5db9e-18d4-46f2-bbb2-4d4f0bd67ded,05-12-2022,08:17:50,Purchase,Restaurant,South Lisaport,7,703.17,GBP,Pending,Gold,Mobile Payment
+b6e34bda-0906-48cd-a256-c537a7f7fc45,14-11-2022,19:10:12,Purchase,Online Services,Marquezchester,8,240.13,GBP,Approved,Standard,Physical Card
+370f1cf8-42ee-41eb-9a6e-569af95ac84c,25-10-2022,17:44:30,Online Payment,Online Services,New Jennafort,4,317.73,USD,Pending,Gold,Mobile Payment
+558147f1-a8d8-4516-9404-43acbf036ea5,11-12-2022,14:34:26,Purchase,Retail,East Selenaborough,16,333.2,GBP,Pending,Platinum,Online
+bb056e9b-5f35-465d-949d-a62ea5961951,29-04-2023,11:19:22,Purchase,Online Services,Jimenezfurt,1,589.3,EUR,Approved,Gold,Mobile Payment
+7bf43e0b-8ffd-4616-9f20-fa62d7ae2f39,15-12-2022,02:43:03,Online Payment,Restaurant,Barbaraborough,8,806.06,EUR,Approved,Standard,Physical Card
+22f40a83-413f-4af3-b581-8e682956b2d2,07-07-2023,19:05:01,ATM Withdrawal,Restaurant,West Stephenmouth,16,98.52,GBP,Approved,Gold,Online
+614088b2-2788-4112-8c98-22cdb248d50c,13-09-2023,01:48:25,Purchase,Retail,Port Marymouth,2,4.28,USD,Approved,Gold,Online
+1b70504f-5fc8-4cdb-914f-2e6616592e8b,13-05-2023,08:45:47,ATM Withdrawal,Online Services,Lake Cindytown,8,714.89,USD,Declined,Platinum,Physical Card
+f42ab30d-3921-49e4-86cb-444581a5e327,27-09-2023,03:32:56,Purchase,Retail,Woodstad,11,987.79,USD,Pending,Standard,Online
+a785dd0b-ed72-4b02-82ba-4059fbdefeb7,12-08-2023,23:50:36,Purchase,Restaurant,Ballshire,11,470.03,EUR,Declined,Gold,Online
+5e94606d-791c-41eb-9d12-55f676641095,05-02-2023,20:36:37,ATM Withdrawal,Restaurant,South Andreaberg,16,985.18,GBP,Pending,Standard,Online
+7b78a64b-4dfd-4f52-9fcf-42e0e934ca32,24-12-2022,23:23:09,ATM Withdrawal,Restaurant,Fisherport,13,177.25,GBP,Pending,Gold,Online
+81426a9e-bce9-46cb-8014-771f91619042,19-05-2023,21:56:23,Purchase,Retail,North Kathyburgh,16,344.5,GBP,Pending,Gold,Mobile Payment
+8784e8dd-9020-4fdb-a4d8-488e723e7c11,10-11-2022,05:13:18,Online Payment,Restaurant,Lake Ronald,14,507.37,GBP,Approved,Gold,Physical Card
+2a9fe34c-7c77-4109-bf8f-d53a7fcd2344,07-01-2023,12:16:24,Purchase,Online Services,Lewisfurt,19,120.66,EUR,Pending,Gold,Mobile Payment
+3931d566-3289-4aa3-91ef-aceff640275b,28-05-2023,17:30:31,Purchase,Online Services,Smithville,9,359.54,GBP,Pending,Standard,Mobile Payment
+8ff6eb89-f75b-431d-abda-772402fd6df9,24-07-2023,05:28:33,ATM Withdrawal,Restaurant,East Jillmouth,1,477.14,USD,Pending,Standard,Online
+baec9574-81aa-4a2a-9af6-4460742e205f,14-06-2023,04:28:26,Purchase,Retail,Jamesberg,17,825.17,EUR,Pending,Platinum,Physical Card
+de1cbd67-bba9-4ee6-a19a-fa924b03cac5,04-08-2023,00:40:26,Purchase,Retail,Lake Leahmouth,15,225.12,USD,Declined,Gold,Online
+fa4506fd-f117-4679-9d9f-201a15b4c1e5,30-07-2023,11:48:53,Purchase,Retail,Kristinaburgh,11,912.35,GBP,Approved,Gold,Physical Card
+67824ac6-c1b0-46a0-abda-38ece1730e4d,06-05-2023,22:11:26,Online Payment,Restaurant,East Saraton,4,401.9,GBP,Declined,Standard,Online
+46c800df-1a22-4fbc-b6f6-5f47e7a2a128,19-01-2023,17:55:03,Online Payment,Restaurant,East Robert,20,143.85,GBP,Approved,Standard,Physical Card
+2bbbfc6c-42aa-49c6-8a9b-1752afa2d6ce,04-04-2023,19:41:02,Purchase,Restaurant,Roseland,12,86.4,EUR,Approved,Platinum,Mobile Payment
+abbddba9-1c4b-4dd3-bc3d-b0c0c1962996,22-04-2023,22:22:20,ATM Withdrawal,Online Services,Paulfort,8,394.32,USD,Declined,Platinum,Online
+c79cea0f-2e44-47f9-b082-009eedceea53,11-12-2022,08:53:42,ATM Withdrawal,Restaurant,Hernandezland,17,989.9,USD,Pending,Platinum,Online
+52a06da0-072e-4b35-b3ad-914ce88d033b,08-02-2023,10:28:06,Online Payment,Retail,Kimberlyport,3,693.69,USD,Approved,Standard,Online
+92deb3dc-b3fc-4a42-877b-ce9429640fb7,20-08-2023,12:19:55,Purchase,Restaurant,Bobbyland,9,505.83,EUR,Declined,Gold,Mobile Payment
+60df903b-b58a-4b90-b9e7-6a9d9c13cfa3,09-03-2023,06:57:59,Online Payment,Online Services,East Brendaside,15,110.24,USD,Pending,Platinum,Online
+2830eb90-d04f-475f-951b-bed2ed94da52,20-02-2023,10:26:33,Online Payment,Retail,Scottfurt,11,229.6,EUR,Pending,Standard,Mobile Payment
+c48ce177-6c95-4601-9325-d661cea19917,14-02-2023,19:38:00,Purchase,Restaurant,Port Roberttown,5,777.33,EUR,Approved,Gold,Online
+8e12bbc7-e6e3-4675-b4b5-43273691cbd0,10-05-2023,09:07:59,ATM Withdrawal,Online Services,Perezshire,14,252.51,USD,Approved,Standard,Online
+07678c0b-0c78-4236-95c2-5284d66f0d01,07-07-2023,16:53:58,Purchase,Online Services,Kylebury,16,677.19,USD,Declined,Gold,Physical Card
+5c54cc68-dc52-4dab-93a6-3c5606151e91,20-03-2023,07:51:55,Purchase,Online Services,Rodriguezhaven,18,627.75,EUR,Declined,Standard,Online
+955589f2-b892-459c-8fb5-8f0e65535ea7,14-04-2023,12:50:34,Online Payment,Online Services,East Danielhaven,14,970.97,GBP,Declined,Platinum,Online
+470a529f-b0b4-4510-960e-d47a1363c8f2,24-02-2023,19:31:17,Online Payment,Restaurant,Frankport,18,781.2,EUR,Approved,Standard,Online
+6e2839e0-7685-4cb9-b744-f39d296232fd,24-11-2022,19:28:42,ATM Withdrawal,Online Services,Vargashaven,12,14.07,USD,Approved,Gold,Online
+c2ef8c71-de8c-4833-85d5-1d48cbef91cc,30-06-2023,07:46:58,Online Payment,Restaurant,New Antonio,20,1.95,EUR,Pending,Gold,Mobile Payment
+3f9fbfa9-1d33-4001-96c3-4a7b784ff043,26-06-2023,23:33:21,Online Payment,Online Services,North Laura,8,290.79,USD,Pending,Platinum,Physical Card
+aa1b2872-e1db-4a31-92cd-84bd118f2291,17-02-2023,08:37:40,Online Payment,Retail,Gloriaville,17,192.92,GBP,Declined,Standard,Physical Card
+7eef5364-55f3-4e51-af2f-7ab509702cd4,03-05-2023,04:21:00,Online Payment,Retail,East Joshuaville,5,178.28,USD,Declined,Standard,Mobile Payment
+fd1450b6-07e1-4767-bc67-02f6dc95eb81,29-07-2023,00:05:36,Online Payment,Restaurant,New Taylor,14,767.33,GBP,Pending,Gold,Mobile Payment
+cecedc31-387a-41d2-9244-cb47535aae3c,18-06-2023,15:36:36,ATM Withdrawal,Online Services,Kimberlyberg,16,871.69,USD,Pending,Gold,Mobile Payment
+efe96abc-d333-4643-8187-e020a7c5f06c,26-06-2023,03:29:59,Purchase,Restaurant,Lake Erik,3,117.28,EUR,Declined,Platinum,Online
+a11b7f9c-e98d-427c-bfc5-bedc8622f9d3,28-03-2023,00:16:58,Online Payment,Online Services,Brownmouth,3,382.05,GBP,Approved,Gold,Online
+5ad25236-bf92-4b34-bf04-d0c8682c9133,14-04-2023,08:48:52,Online Payment,Retail,Amandamouth,20,103.39,EUR,Pending,Standard,Physical Card
+54a60469-d839-4253-9dde-2c93fbe9125d,10-12-2022,15:46:28,Online Payment,Retail,Jamieburgh,20,471.53,EUR,Pending,Gold,Physical Card
+cd6af8d7-e019-49b9-8f08-39b27a153087,10-03-2023,03:22:20,ATM Withdrawal,Retail,Stephensberg,11,229.06,GBP,Declined,Gold,Mobile Payment
+42e10eeb-6c11-4b91-bc31-191556e0eb45,26-12-2022,05:56:15,Purchase,Online Services,Kevinport,6,965.48,EUR,Pending,Platinum,Online
+50ad7616-6493-4480-839e-d59c4e3216bf,01-02-2023,13:14:50,Purchase,Retail,Contrerasfort,6,957.12,USD,Pending,Standard,Online
+215276fb-23cf-4ad4-94b3-cae39748f015,09-05-2023,09:28:22,Online Payment,Restaurant,Port Henry,5,873.88,EUR,Pending,Standard,Mobile Payment
+a402f363-8be1-4990-93d7-e4950d0454d6,13-11-2022,23:34:46,Online Payment,Retail,Coffeyport,2,236.76,GBP,Declined,Standard,Physical Card
+5666aac2-45a1-48a7-97cf-4ce481b35fc4,29-05-2023,11:14:17,ATM Withdrawal,Online Services,Brendaton,12,578.6,GBP,Pending,Platinum,Physical Card
+a3e657a7-fc4a-4aed-a379-b291a6895438,25-06-2023,06:58:28,Online Payment,Restaurant,Courtneymouth,14,419.43,GBP,Declined,Platinum,Online
+2354be44-2f24-44e0-8f8e-f2a895727907,14-05-2023,18:14:30,Purchase,Retail,Rossmouth,19,764.89,GBP,Approved,Standard,Physical Card
+2274e355-58ee-4e8e-8137-151f8630c92f,05-02-2023,06:40:23,Purchase,Retail,Lake Paul,7,602.53,EUR,Declined,Standard,Physical Card
+4dab99d7-cc23-40c3-977e-787328a60b88,15-11-2022,04:07:34,Online Payment,Retail,Smithfort,8,466.84,GBP,Approved,Platinum,Online
+8f917390-5db0-437d-b0ed-431a084d85cc,02-11-2022,04:52:19,Online Payment,Retail,Lake Marcus,14,915.73,USD,Pending,Platinum,Mobile Payment
+90b0e203-16e8-4955-8851-f2035b174ba0,19-12-2022,01:13:18,ATM Withdrawal,Retail,Lake Matthew,6,197.64,EUR,Pending,Platinum,Physical Card
+28918c0f-b4e3-4ee6-a712-97e1c3f62a07,21-06-2023,02:56:42,Purchase,Retail,South Robertochester,8,740.78,USD,Approved,Standard,Mobile Payment
+27cbccdf-5ec1-49fe-996a-90db2af257cf,13-09-2023,14:15:17,Purchase,Retail,Judyfurt,18,489.43,USD,Declined,Standard,Online
+cb5f225b-b955-414d-b0c7-637f9882bf81,10-12-2022,09:05:03,Online Payment,Retail,North Robertbury,4,85.43,EUR,Pending,Platinum,Physical Card
+0c510313-aa48-4daa-8bfb-95d8c9275b0e,26-06-2023,01:06:52,ATM Withdrawal,Online Services,Robertsberg,4,880.64,USD,Pending,Standard,Physical Card
+cafc958c-01c7-4cac-89c8-f38002e77baf,01-06-2023,23:35:27,ATM Withdrawal,Retail,Kellyton,11,789.17,EUR,Approved,Platinum,Online
+7388ae51-3e25-4c21-b59b-df14054571fb,30-03-2023,12:38:19,Online Payment,Retail,Christopherview,5,102.1,GBP,Pending,Platinum,Physical Card
+27dbfbe9-b1fb-47b6-893a-754ee1d71abc,09-07-2023,15:03:43,Purchase,Online Services,Richardland,13,420.06,USD,Declined,Platinum,Physical Card
+8b23de18-2608-4f20-8d03-5d5f61daacde,12-09-2023,11:05:08,ATM Withdrawal,Restaurant,Joshuamouth,12,494.16,USD,Approved,Platinum,Physical Card
+ed9d6f0e-4edc-407f-ab0a-eecb594bf015,23-01-2023,11:35:52,Purchase,Online Services,Anthonytown,8,409.13,GBP,Declined,Gold,Physical Card
+8d4d44a7-caf3-45f8-9c73-87d9e1179647,14-07-2023,16:09:59,Online Payment,Online Services,South Samuel,13,261.41,EUR,Approved,Standard,Online
+2e74f450-4a53-4586-99b3-e7b7f27e2cbe,05-11-2022,03:28:49,Online Payment,Retail,New Hunter,4,534.92,GBP,Approved,Gold,Online
+bd974432-868f-4db6-b130-67f23b0cd76a,29-05-2023,12:43:14,Purchase,Online Services,Port Kristine,14,288.56,USD,Declined,Standard,Mobile Payment
+93fb8660-130b-4651-b34f-6d34a320c96c,11-05-2023,06:37:44,ATM Withdrawal,Restaurant,Hammondborough,14,448.45,USD,Declined,Platinum,Mobile Payment
+e43fc274-7c69-4ea1-86fb-c30daab6ffcb,11-07-2023,02:19:10,Purchase,Restaurant,Browninghaven,6,711.79,EUR,Pending,Platinum,Mobile Payment
+48454b0b-e1b2-4ce0-b446-cff8ebf8a94f,29-08-2023,03:35:15,Purchase,Online Services,New Ashleyborough,20,593.03,USD,Declined,Gold,Online
+80b7d6f5-9aed-4e42-a2c5-50054dd6ff65,21-04-2023,22:09:34,ATM Withdrawal,Retail,Monicamouth,12,305.69,GBP,Approved,Gold,Mobile Payment
+db0cc0fa-0e75-44ce-ae58-f1f9bee3789f,06-02-2023,19:00:00,Online Payment,Restaurant,Briantown,5,915.12,GBP,Declined,Standard,Online
+c1ec36a4-9118-4218-b569-eaea385ea564,29-07-2023,10:17:45,Purchase,Retail,Stevenfurt,7,223.88,USD,Pending,Platinum,Online
+3e117ed0-8097-4680-9c19-e9688b36a2fa,13-01-2023,18:16:57,ATM Withdrawal,Online Services,West Ryan,12,858.16,EUR,Declined,Gold,Online
+d34ddf4c-b3d1-4635-9ca6-a5e04ecf4cf1,21-01-2023,12:03:42,Online Payment,Retail,Brendaton,4,83.3,EUR,Approved,Gold,Physical Card
+940ab2c8-fa87-48aa-915f-51b6d5660f7c,13-12-2022,00:25:16,Purchase,Online Services,Wagnerton,13,478.67,USD,Pending,Gold,Physical Card
+52edc3a2-0fd7-48b9-b8aa-d6f0eb1e395d,19-02-2023,15:08:27,ATM Withdrawal,Online Services,Danielton,5,514.51,GBP,Approved,Gold,Online
+8c897176-144a-4c58-8f9d-ba9c7d74c01b,31-05-2023,23:26:16,Purchase,Online Services,New Angela,8,659.73,GBP,Approved,Platinum,Online
+6750397f-6dbe-49dd-97cc-0a4d158e9ded,20-09-2023,03:15:03,Online Payment,Retail,North Amandabury,11,4.44,GBP,Declined,Standard,Physical Card
+f0dcd57c-e637-4549-9afb-697f8ad9ad7a,07-11-2022,10:11:05,Purchase,Retail,Markville,20,446.73,USD,Declined,Standard,Physical Card
+dcd7572f-1979-450a-a02e-01b5910dad37,18-01-2023,21:58:32,Purchase,Retail,New Todd,5,824.8,USD,Pending,Gold,Physical Card
+015cd4c6-4eb2-403c-95cc-f51f26144d5d,26-11-2022,20:22:43,ATM Withdrawal,Restaurant,Port Debraland,12,589.97,EUR,Approved,Platinum,Physical Card
+8a5f08d5-06e3-416c-8ca7-470f14fec088,04-02-2023,11:03:24,Purchase,Retail,South Amy,4,11.95,USD,Declined,Gold,Physical Card
+6647d81c-2acd-41cf-9806-e45ffcb62862,22-08-2023,11:35:34,Online Payment,Retail,Rodgerstown,10,363.07,GBP,Approved,Standard,Online
+e899c2b9-21d8-4d23-a130-d4b3927d52aa,29-09-2022,07:21:05,Online Payment,Restaurant,West Joshuamouth,1,476.61,EUR,Declined,Gold,Physical Card
+ec928aab-0318-4e31-b55d-51211d59d1c9,21-01-2023,12:01:27,ATM Withdrawal,Restaurant,East Nicole,14,207.91,GBP,Declined,Standard,Physical Card
+0c5713a0-e3d9-42e4-96ca-c593591f9257,28-07-2023,23:31:55,Online Payment,Online Services,Kellyton,5,252.06,EUR,Declined,Platinum,Online
+1730b271-6608-43b4-8102-5b872d3371cb,20-06-2023,22:45:34,Online Payment,Retail,Port Michaelborough,18,855.67,GBP,Pending,Gold,Online
+b9f3882d-719d-49a4-be49-54618fdad4dd,08-03-2023,04:36:17,Online Payment,Retail,Teresaview,7,459.93,EUR,Pending,Standard,Physical Card
+0d969131-f07f-49de-bc2c-6b8d5d8dbdeb,06-05-2023,22:18:19,Purchase,Online Services,Johnfort,15,881,GBP,Declined,Gold,Physical Card
+92552711-9815-4923-b342-938d15347313,06-01-2023,06:14:16,Online Payment,Restaurant,Joytown,10,907.89,EUR,Approved,Standard,Mobile Payment
+b4c68662-e442-4b9b-ba30-9357d300f45e,20-06-2023,09:50:01,Online Payment,Online Services,West Alexismouth,18,487.09,EUR,Approved,Standard,Physical Card
+0b235571-4b42-4c9a-8c04-f1a38bea379f,20-11-2022,16:30:47,ATM Withdrawal,Retail,Port Jonathanfort,8,338.63,GBP,Declined,Platinum,Online
+a250e18c-6401-48f7-838d-b88f6e61c21e,17-06-2023,03:51:55,Purchase,Online Services,Williamsland,14,484.18,EUR,Declined,Standard,Physical Card
+76b3b5f4-a357-4b2d-b783-7ef7de5fce8e,28-08-2023,01:49:56,Online Payment,Retail,Port Karen,19,234.78,EUR,Declined,Standard,Mobile Payment
+7d2e403c-707f-404a-84ef-199c360d21df,14-12-2022,06:44:24,Purchase,Online Services,Larryville,1,515.54,USD,Declined,Gold,Physical Card
+dcc4d3a6-1279-412a-b2fc-efb9594fe997,11-11-2022,07:33:42,Online Payment,Restaurant,Michaelmouth,14,621.39,USD,Declined,Platinum,Online
+17f18967-2788-44e0-b8eb-0edf24d82a91,11-01-2023,06:24:10,Online Payment,Restaurant,Brownborough,17,908,EUR,Pending,Platinum,Mobile Payment
+77ae0b15-5783-4955-bcbf-d5f06e5c3e7a,23-10-2022,05:34:35,Online Payment,Online Services,Rebeccaton,1,628.6,GBP,Approved,Platinum,Mobile Payment
+b471d9a4-8b97-41c5-bb95-6c87c63f7a0d,19-06-2023,05:03:51,ATM Withdrawal,Restaurant,Gillespieburgh,16,508.95,GBP,Pending,Standard,Online
+2b36a61a-2cd1-46e3-abda-228a7618e121,01-12-2022,08:29:15,Online Payment,Online Services,West Manuel,18,437.28,EUR,Declined,Gold,Mobile Payment
+7b50cbbd-461c-4b38-9dc6-686c932bedb5,20-05-2023,16:08:48,Online Payment,Online Services,Lake Andrewburgh,16,71.43,GBP,Approved,Platinum,Online
+b5ad046f-537a-427d-b9b5-03906c46231a,13-12-2022,15:15:22,ATM Withdrawal,Online Services,Jonathanstad,4,901.37,USD,Declined,Gold,Mobile Payment
+ccac7588-34ae-4ee4-bb68-e2c9ca883dfd,05-06-2023,13:03:04,Purchase,Online Services,Wilsonside,4,478.7,EUR,Declined,Platinum,Online
+6c52aa8f-3200-4da3-a37c-ef6234c3801e,18-02-2023,06:05:28,Purchase,Restaurant,Lake Teresa,11,641.62,GBP,Pending,Gold,Mobile Payment
+462a8911-3b0f-4377-8fdf-97de826e583a,14-04-2023,10:29:50,ATM Withdrawal,Retail,Ianview,10,771.56,GBP,Pending,Platinum,Online
+4316c70f-e6e6-4afd-bfae-0671a4a1d6d4,29-10-2022,03:32:22,Purchase,Restaurant,Kaylaview,2,395.45,USD,Declined,Platinum,Online
+b36a36f8-328b-457b-b1db-509937900ec8,15-11-2022,21:45:14,ATM Withdrawal,Retail,North Annetteborough,5,257.09,GBP,Declined,Standard,Mobile Payment
+474b6cd3-c944-400e-9db3-ce85d7a48f4c,16-11-2022,19:15:44,Purchase,Online Services,Petersonside,6,446,EUR,Pending,Platinum,Physical Card
+ab3860cd-b81a-4144-b9fd-0693bcb650f7,19-06-2023,23:31:16,ATM Withdrawal,Retail,East Lauren,20,377.93,GBP,Approved,Gold,Physical Card
+63e811e3-133f-4b38-b2ce-93a757b7671c,07-05-2023,22:45:36,ATM Withdrawal,Online Services,Benjaminbury,11,824.41,GBP,Approved,Platinum,Online
+368ed3ae-935d-4d68-b334-44f15c562e70,25-01-2023,20:26:41,ATM Withdrawal,Retail,West Jenniferfort,20,622.56,EUR,Approved,Standard,Online
+75dfcf48-23af-4ef7-a5ab-aaeac563026e,23-03-2023,23:45:37,ATM Withdrawal,Restaurant,Port Christine,7,770.28,GBP,Approved,Platinum,Online
+b20114a6-5141-4583-ac2f-9af7f96c2530,14-11-2022,16:13:35,Purchase,Retail,North Richard,5,260.52,USD,Declined,Standard,Online
+7ab5f2ca-3670-4c02-991d-8e43d3fd6c0c,23-03-2023,13:08:57,ATM Withdrawal,Restaurant,North Taylorchester,11,136.7,GBP,Declined,Standard,Physical Card
+a5894f1b-c7cc-4af7-82b5-d7571c9c8d31,16-06-2023,18:49:18,Purchase,Restaurant,New Jessicaside,16,960.16,USD,Pending,Gold,Mobile Payment
+22f09a4a-4b98-4e77-b30f-2d2991bd5418,20-07-2023,15:23:02,ATM Withdrawal,Restaurant,Powellfort,11,71.5,USD,Approved,Standard,Mobile Payment
+6e5ade37-bdd9-41af-bb26-fbd47aee8968,14-11-2022,15:41:44,ATM Withdrawal,Retail,North Kim,11,319.74,USD,Pending,Standard,Online
+67756eeb-3f8c-4ee4-91d4-20d656fd99a0,24-07-2023,15:24:38,Purchase,Online Services,New Gregory,20,439.74,GBP,Pending,Standard,Mobile Payment
+c4c4a416-4ff9-432d-8a7d-5bf8ab4ff6f4,25-11-2022,11:20:12,Purchase,Restaurant,Howebury,19,460.09,USD,Approved,Standard,Mobile Payment
+a896c460-b022-4776-921f-eb3138cdcb25,16-10-2022,04:48:53,Online Payment,Online Services,Sandrafurt,12,891.61,EUR,Declined,Standard,Mobile Payment
+94a8ac0d-09cf-4b8b-81c7-edc8397f8731,30-05-2023,13:04:44,Online Payment,Restaurant,North Danielle,8,697.89,EUR,Declined,Standard,Physical Card
+6a5423d0-1864-42be-9ea0-3915830ba891,13-01-2023,05:50:07,Purchase,Retail,Amandaland,4,759.02,USD,Approved,Gold,Mobile Payment
+e6e5f3ed-fa20-4496-8dae-3752fc3db2c1,27-08-2023,11:22:10,Purchase,Restaurant,Kimberlyberg,19,848.61,USD,Approved,Standard,Physical Card
+9f455052-e3ff-41c9-8f4d-f67fc2e63cf8,20-09-2023,23:09:44,ATM Withdrawal,Retail,Brianmouth,14,143.16,USD,Declined,Platinum,Online
+c3acc184-c127-48a1-8c81-322c92876dd6,01-04-2023,07:20:35,Online Payment,Retail,Lake Dennisville,17,348.63,EUR,Pending,Platinum,Mobile Payment
+2a08abb6-977e-4e7f-aa8e-45da47547269,27-05-2023,20:10:21,Purchase,Retail,Sheltonbury,6,142.33,EUR,Approved,Platinum,Physical Card
+543ec95b-909d-4717-8838-448faf58ecf4,04-01-2023,10:30:27,ATM Withdrawal,Retail,New Ellen,2,538.27,USD,Declined,Platinum,Online
+5c752ff0-7fa6-48b9-89e0-903975850140,03-05-2023,17:16:59,ATM Withdrawal,Restaurant,Smithstad,6,31.04,EUR,Pending,Gold,Mobile Payment
+8a602ea4-2714-4f64-a2c7-8b2fdc59ef0d,19-01-2023,16:38:09,Online Payment,Restaurant,Paulaton,17,118.71,GBP,Declined,Platinum,Mobile Payment
+233d1d70-88c5-4d81-982a-f0daf70e4d5c,29-03-2023,20:11:42,Online Payment,Retail,Donaldhaven,2,952.39,USD,Declined,Gold,Online
+30ebdd67-a0ba-46ce-b711-56308b733097,23-09-2023,21:30:59,Online Payment,Online Services,East Crystalview,9,250.32,GBP,Approved,Gold,Online
+f7251510-4c58-4d50-802d-004391ff234f,30-12-2022,16:19:34,Purchase,Retail,Smithtown,11,544,GBP,Approved,Gold,Physical Card
+fc67f5f1-f812-49ad-970d-a782b0a4a553,26-03-2023,09:46:09,ATM Withdrawal,Online Services,Gloriamouth,10,354.93,GBP,Pending,Standard,Physical Card
+4e908cb6-5e69-4f56-948b-25bdf1304eb1,13-12-2022,15:52:16,Purchase,Retail,North Kylehaven,9,671.58,GBP,Approved,Standard,Online
+3992d37c-ca3a-4599-8145-512d434072b5,04-06-2023,19:56:34,Purchase,Retail,Lindsayfurt,2,847.15,EUR,Pending,Standard,Physical Card
+52c23311-d8d9-4264-bd4b-9e5f96ad4558,07-07-2023,05:48:35,Online Payment,Online Services,Billyborough,20,603.04,EUR,Approved,Standard,Mobile Payment
+da557891-a575-490e-ab4b-0818dad55d67,15-01-2023,09:19:05,Purchase,Restaurant,East Carolyn,6,676.5,GBP,Approved,Standard,Mobile Payment
+f55f15e3-4585-49b4-a6a4-5fa728d65bcf,15-11-2022,04:58:46,ATM Withdrawal,Online Services,East Jennifer,3,862.22,GBP,Declined,Gold,Online
+5a76ca4f-746c-4365-a85b-53385ddea63e,12-04-2023,18:12:11,ATM Withdrawal,Online Services,Michelleport,9,991.23,USD,Approved,Gold,Mobile Payment
+b35af75d-0cef-42c8-b8b0-dac00f306505,24-05-2023,07:27:05,Online Payment,Online Services,New Dawn,8,331.66,EUR,Pending,Platinum,Online
+351f0a60-76de-4e88-a4b9-8b7f755b25f9,07-02-2023,18:38:58,Purchase,Online Services,Gregorymouth,8,487.32,GBP,Pending,Gold,Physical Card
+01bca0d6-d5c2-4311-ba28-dd41546b59b4,08-12-2022,08:56:05,ATM Withdrawal,Online Services,Andersonmouth,2,867.59,USD,Pending,Gold,Mobile Payment
+1e6531bf-83cc-47c3-aa32-c7a81389ef60,02-04-2023,18:10:52,Online Payment,Restaurant,Thomasmouth,14,768.29,GBP,Pending,Gold,Online
+190d1761-593d-441d-b381-50beeb2fdd96,22-05-2023,17:35:13,Purchase,Online Services,Lake Kelly,17,223.25,USD,Declined,Platinum,Physical Card
+6bec9768-572c-4722-b3c4-aae8c2d62839,28-12-2022,06:23:32,Purchase,Restaurant,South Williamfort,17,771.28,GBP,Declined,Standard,Mobile Payment
+c21f2b03-e3b9-46e1-b9ab-3d918e2a888f,14-03-2023,14:04:33,ATM Withdrawal,Retail,New Angela,5,689.44,EUR,Approved,Gold,Mobile Payment
+6265f317-7f1b-45ce-a10b-c7f3fdb80578,17-08-2023,03:44:18,ATM Withdrawal,Online Services,Lake Beth,1,725.52,EUR,Approved,Platinum,Online
+4bec98b6-42c8-451a-9a43-fc267a41d4dc,22-09-2023,10:32:40,Online Payment,Restaurant,New Amandaton,19,935.02,GBP,Declined,Platinum,Online
+f701d2a2-7436-4fcf-8217-2016bdce0093,08-03-2023,19:10:03,ATM Withdrawal,Retail,Ashleyside,20,34.07,EUR,Approved,Gold,Online
+477823e0-a9f2-4835-83ba-897d9323b9fe,09-01-2023,09:49:39,ATM Withdrawal,Retail,Port Jaclyn,9,673.53,GBP,Pending,Gold,Physical Card
+de44d9fc-ccd0-4494-8c9f-9e823c684a4c,14-02-2023,17:13:35,Purchase,Retail,Jeffreyfurt,10,123.27,USD,Approved,Standard,Online
+3ed668c1-a292-41eb-bd9e-bd5d159691aa,04-12-2022,11:45:59,Purchase,Retail,Jamietown,14,149.79,USD,Pending,Platinum,Physical Card
+f59c8eb2-cf2f-4a43-a24c-86fdd94b9e5e,23-03-2023,22:09:49,ATM Withdrawal,Restaurant,Jeanettetown,8,588.8,USD,Pending,Standard,Physical Card
+25915ca9-ac77-4af8-8f88-289e36b5eb43,06-06-2023,02:15:03,ATM Withdrawal,Retail,North Kayla,6,94.01,USD,Pending,Standard,Physical Card
+db7ba33f-2529-4111-95b8-207da510d5c9,18-05-2023,15:36:14,Purchase,Restaurant,New Charlesburgh,13,429.91,USD,Pending,Platinum,Online
+09aa85e5-f188-4456-b966-19f45bf1b0ce,30-11-2022,12:25:53,Purchase,Restaurant,Nielsenmouth,10,462.59,GBP,Approved,Gold,Mobile Payment
+cd241ceb-86c4-459e-935f-4d13e2e02ab0,23-06-2023,09:58:45,Purchase,Retail,Caitlinside,5,457.92,GBP,Pending,Standard,Online
+6c4482f3-0981-4d19-89e9-2fc6a9f1ec24,17-11-2022,07:56:59,ATM Withdrawal,Restaurant,West Craigbury,13,334.38,GBP,Declined,Standard,Physical Card
+10979559-1f71-40a8-9b96-5b18d4a28a6a,18-09-2023,13:56:40,ATM Withdrawal,Restaurant,Hughesville,5,139.44,EUR,Pending,Platinum,Physical Card
+17fdc126-70a7-4b7c-bf4f-9ceffc702df4,14-03-2023,04:43:13,ATM Withdrawal,Online Services,Justinville,14,892.88,EUR,Pending,Standard,Online
+6ae17b22-6756-46cc-ba0c-b2302cb1d081,15-02-2023,15:33:36,ATM Withdrawal,Restaurant,West Adamhaven,19,357.8,EUR,Declined,Gold,Mobile Payment
+e4ca37bf-c0d3-47ad-8aa6-f332be78674c,25-04-2023,07:02:22,Purchase,Restaurant,Starkshire,1,542.82,EUR,Declined,Gold,Physical Card
+1948805d-a446-47de-bce2-78c02c3404c4,06-10-2022,16:36:26,ATM Withdrawal,Restaurant,West Alexis,15,163.4,GBP,Declined,Standard,Mobile Payment
+1c07107d-a916-4887-93b4-4ee3eae8daa1,16-05-2023,02:22:41,ATM Withdrawal,Online Services,Lake Robert,18,189.68,USD,Approved,Gold,Mobile Payment
+ee56a362-77e7-4bf3-b10b-a73219c8ab77,10-05-2023,23:43:47,Online Payment,Retail,East Karen,5,287.68,GBP,Approved,Gold,Physical Card
+4b9058cb-cde2-4cb5-b1a7-a7cf58647763,04-01-2023,18:42:07,ATM Withdrawal,Online Services,Lake Kimberlyberg,13,863.54,USD,Approved,Platinum,Physical Card
+e193f18d-57dc-42bf-afc0-cf1faf28f1f6,15-09-2023,12:47:51,Purchase,Restaurant,Lake Alicia,19,82.37,EUR,Approved,Gold,Online
+debc7423-600b-42a7-82b7-566effb8f5db,25-02-2023,14:33:40,Purchase,Restaurant,West Hollyhaven,5,892.65,USD,Approved,Platinum,Online
+a90dca4a-adeb-432c-a008-b630caa225f0,03-10-2022,12:49:49,Purchase,Restaurant,Rachelville,9,372.61,EUR,Approved,Standard,Online
+e3ef835c-d57b-46f6-8f31-a97aa04e75cb,09-03-2023,13:04:37,ATM Withdrawal,Restaurant,Friedmanborough,12,374.47,EUR,Approved,Gold,Physical Card
+87968431-cd7c-4de7-b95c-abf751cbaaa3,14-04-2023,16:17:49,Online Payment,Retail,Santosville,7,425.34,EUR,Approved,Platinum,Online
+fd1d15b3-52b7-4167-bcd9-6d0e7a048bbc,28-05-2023,00:42:10,ATM Withdrawal,Retail,Port Edwin,13,554.55,EUR,Pending,Standard,Online
+410ba54e-7d36-45d8-b41f-62498f628b3e,28-05-2023,02:18:49,Purchase,Retail,Ethanfort,1,29.04,USD,Declined,Standard,Online
+7bcf3da9-7ff5-468f-9b58-3eaeafbc006e,20-06-2023,17:09:53,Online Payment,Online Services,West Samanthamouth,4,514.64,USD,Pending,Standard,Mobile Payment
+6de585ba-504a-45e7-b8a1-ca641b0a1b65,29-12-2022,02:45:02,Online Payment,Online Services,West Johnny,4,630.69,GBP,Pending,Platinum,Physical Card
+18094d81-845d-4351-86b8-e2bc82914226,11-10-2022,01:27:30,ATM Withdrawal,Restaurant,Nicoletown,10,999.76,USD,Declined,Gold,Mobile Payment
+327d873c-a1a1-43e4-a084-c996952673f0,13-09-2023,08:05:27,ATM Withdrawal,Online Services,Lake Dawnport,9,655.81,GBP,Pending,Gold,Physical Card
+b3000c58-4ba7-41e8-b938-9b7c196ad690,18-03-2023,00:51:00,ATM Withdrawal,Restaurant,Hudsonville,15,719.97,EUR,Pending,Standard,Physical Card
+5f4a35da-b25c-4000-bf98-cd089d55347b,06-01-2023,22:14:57,ATM Withdrawal,Restaurant,West David,19,487.43,USD,Pending,Gold,Physical Card
+1c868ca0-f757-4b49-98bc-50430b0a0728,11-10-2022,11:42:16,Online Payment,Online Services,Nelsonborough,10,342.67,GBP,Declined,Gold,Physical Card
+98aec6bc-768e-4592-91e7-8e80372cdcdd,25-06-2023,13:26:29,Online Payment,Online Services,Ellisside,18,722.04,GBP,Pending,Platinum,Physical Card
+bd52f4aa-37eb-4f2b-9129-f3e5fd11d8c2,25-05-2023,21:19:33,ATM Withdrawal,Retail,Joseton,16,728.39,EUR,Approved,Standard,Online
+eb22f9db-6ed4-4381-9589-7126eb14a418,26-01-2023,14:10:59,Online Payment,Restaurant,Fishershire,5,223.65,EUR,Approved,Standard,Mobile Payment
+1b208b61-68dc-41ee-86d5-1d72af2291e3,09-11-2022,13:50:24,Online Payment,Retail,Jamesmouth,1,766.18,EUR,Declined,Platinum,Online
+021b1edb-328f-4342-bf3f-9278d9d8f688,27-01-2023,20:28:59,ATM Withdrawal,Online Services,Port Linda,7,331.71,GBP,Declined,Gold,Physical Card
+12fd11cd-8311-4497-8b0a-beb28c3d9a6b,05-04-2023,11:40:32,Online Payment,Retail,Zacharyhaven,8,818.05,USD,Pending,Standard,Online
+e301a510-a522-4b6d-a1ee-1a3530a2c6ac,14-02-2023,00:31:28,Online Payment,Online Services,Port Jordan,17,866.95,EUR,Declined,Standard,Mobile Payment
+eb651644-e559-444a-b14f-0a40bf0526db,27-07-2023,05:45:47,Online Payment,Retail,Timothyland,14,517.34,GBP,Pending,Platinum,Online
+3db582f8-848b-4ebb-93de-9c20fe268f0f,03-10-2022,00:54:16,ATM Withdrawal,Online Services,West Grant,4,674.91,USD,Pending,Gold,Online
+b6f1eb02-1f5a-40df-8c1d-9759f961b7f4,23-04-2023,05:08:10,ATM Withdrawal,Restaurant,New Seanstad,20,782.9,GBP,Approved,Standard,Mobile Payment
+c4a03743-7361-4190-a8d6-6aa050880ca7,03-07-2023,12:55:10,ATM Withdrawal,Restaurant,East Mario,18,273.83,USD,Declined,Standard,Mobile Payment
+eed6559f-78e5-435d-bd3f-50d57f2c6783,29-05-2023,20:16:09,ATM Withdrawal,Restaurant,Nathanburgh,10,514.26,GBP,Approved,Gold,Mobile Payment
+a64b64b2-bb48-44aa-add0-33fc4dcba73e,10-10-2022,20:50:44,ATM Withdrawal,Restaurant,West Austinmouth,6,607.83,USD,Declined,Platinum,Physical Card
+72fa98e4-1a63-4fa2-9c20-69e7fb8b5c20,09-02-2023,03:12:29,Online Payment,Retail,Osborneborough,19,33.07,GBP,Declined,Standard,Online
+27902826-2e73-4514-a0f3-7471e5584a6c,17-07-2023,16:24:50,ATM Withdrawal,Online Services,East Victoriaton,7,106.27,EUR,Approved,Gold,Mobile Payment
+f60ed0cb-a906-442c-87db-06b1aba7e6fd,21-02-2023,23:56:29,ATM Withdrawal,Online Services,West Jonathanborough,2,128.93,USD,Pending,Standard,Physical Card
+1825bf5a-f341-4c1d-a04e-cef31e775daf,04-09-2023,03:42:23,ATM Withdrawal,Restaurant,Port Kyle,6,588.31,EUR,Pending,Gold,Physical Card
+4b10e846-cc5b-412b-92ec-55f23fdf8cf7,27-06-2023,19:58:08,ATM Withdrawal,Restaurant,Johnsonchester,9,430.19,GBP,Approved,Gold,Online
+5fca9384-c15b-4072-acd6-2ea6033d2dfa,24-10-2022,22:03:16,ATM Withdrawal,Restaurant,Port Christina,9,219.13,USD,Pending,Standard,Mobile Payment
+be9f5df0-96ad-4523-858b-64d941ec69e3,25-08-2023,12:42:47,Online Payment,Retail,Timothymouth,19,529.21,USD,Approved,Gold,Online
